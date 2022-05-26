@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Loads required JS codes. Some of them are data files disguised as JS. I know this is bad practice. -->
+        <script src="./data.js"></script>
+        <script src="./results.js"></script>
+        <script src="./code.js"></script>
+
+        <!-- Loads style.css -->
+        <link rel="stylesheet" href="style.css">
+
+        <!-- Loads special punctuation, such as ã, ç, ê, etc -->
+        <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div class="header"><h1>Chave Dicotômica - Sistemática</h1></div>
+        
+        <div class="container">
+            <div class="column">
+                <h3 id="propA"> Proposição A</h3>
+                <button class="button" id="pathA" onclick="buttonA()">2</button>
+
+                <div class="hidden" id="boxA">
+                
+                    <h2 id="resultA"></h2>
+    
+                    <a id="linkA" href="https://pt.wikipedia.org/wiki/" onclick="location.href=this.href+data[crawler]['pathA'];return false;"> </a>
+                    <figure>
+                        <img id="imgA" src="" alt="" class="responsive">
+                    </figure>
+                </div>
+    
+                
+            </div>
+
+            <div class="column">
+                <h3 id="propB"> Proposição B</h3>
+                <button class="button" id="pathB"> 11</button>
+            </div>
+        </div>
+
+
+        <div class="container">
+            <div class="column2">
+                
+                <h3>Linha atual:</h3>
+                <p id="line"> 1 </p>
+
+            </div>
+
+            <div class="column2">
+                
+                <h3>Caminho até aqui:</h3>
+                <p id="route"> 1 </p>
+
+            </div>
+        </div>
+
+            
+
+
+           
+    </body>
+</html>

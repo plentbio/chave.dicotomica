@@ -1,0 +1,79 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+/* Buttons */
+.button {
+  background-color: rgb(150, 121, 61); /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+/* Columns */
+.container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: rgb(43, 77, 27);
+    padding: 10px;
+}
+
+.column {
+    background-color: rgba(255, 255, 255, 0.582);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.column2 {
+    background-color: rgba(255, 255, 255, 0.582);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    text-align: center;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+/* Text*/
+p {
+    font-size: 24px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+.header {
+    color: rgb(43, 77, 27);
+}
+
+/*
+background-color: rgb(255, 255, 255);
+border: 1px solid rgba(0, 0, 0, 0.8);
+padding: 20px;
+font-size: 30px;
+text-align: center;
+*/
