@@ -1,18 +1,24 @@
 const key = `[
-    
+    {
+      "index": 0,
+      "propA": "Proposição A, Index 0",
+      "pathA": 1,
+      "propB": "Proposição B, Index 0",
+      "pathB": 1
+    },
     {
       "index": 1,
       "propA": "Proposição A, index 1",
       "pathA": 2,
       "propB": "Proposição B, index 1",
-      "pathB": 11
+      "pathB": 2
     },
     {
      "index": 2,
      "propA": "Proposição A, index 2",
      "pathA": 3,
      "propB": "Proposição B, index 2",
-     "pathB": 22
+     "pathB": 3
     },
     {
      "index": 3,
@@ -40,7 +46,7 @@ const key = `[
      "propA": "Proposição A, index 6",
      "pathA": "Cactaceae",
      "propB": "Proposição B, index 6",
-     "pathB": "Cactaceae"
+     "pathB": "Rosaceae"
     },
     {
      "index": 7,
