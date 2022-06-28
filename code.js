@@ -5,7 +5,7 @@ const data = JSON.parse(key);
 var route = [];
 var crawler = 0;
 
-
+console.log(data[crawler]);
 
 function updateHTML() {
     // Updates the HTML ids to show new values, based on the current line. This is an auxiliary function called by other functions.
@@ -31,6 +31,7 @@ function button(id) {
             // Updates HTML values with title, wikipedia link and image
             document.getElementById("resultA").innerHTML = data[crawler]["pathA"];
             document.getElementById("linkA").innerHTML = "Wikipedia";
+            document.getElementById("linkA").href= "https://pt.wikipedia.org/wiki/" + data[crawler]["pathA"];
             document.getElementById("imgA").src = results[data[crawler]["pathA"]]["img"];
 
         } else {
@@ -55,6 +56,7 @@ function button(id) {
             // Updates HTML values with title, wikipedia link and image
             document.getElementById("resultB").innerHTML = data[crawler]["pathB"];
             document.getElementById("linkB").innerHTML = "Wikipedia";
+            document.getElementById("linkB").href= "https://pt.wikipedia.org/wiki/" + data[crawler]["pathB"];
             document.getElementById("imgB").src = results[data[crawler]["pathB"]]["img"];
 
         } else {
@@ -69,6 +71,7 @@ function button(id) {
             updateHTML();
         };
     };
+    console.log(data[crawler]);
 };
     
 function buttonKey(id) {
@@ -119,4 +122,5 @@ function back() {
     document.getElementById("boxB").style.display = "none";
 
 };
+
 
