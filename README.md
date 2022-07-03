@@ -1,4 +1,4 @@
-# dichotomousKey 1.0.2
+# dichotomousKey 1.1.2
 An HTML, JavaScript, and CSS app to show a dichotomous key.
 
 The data from the dichotomous key is in a .js file because I had trouble parsing a JSON file.

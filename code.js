@@ -152,27 +152,3 @@ async function imageQuery(query, imgX){
         document.getElementById(imgX).src = image_url;
     };
 };
-
-
-//
-
-//var pages = dados.query.pages;
-//console.log(pages); 
-
-
-
-
-
-//console.log(imageQuery);
-
-        /*
-        .then(function(response) {
-            var pages = response.query.pages;
-            for (var page in pages) {
-                image_url = pages[page].thumbnail.source;
-        }
-        })
-*/
-//    return image_url;
-
-//}
