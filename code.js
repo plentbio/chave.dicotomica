@@ -15,61 +15,28 @@ function updateHTML() {
     document.getElementById("route").innerHTML = route;
 };
 
-function button(id) {
+function button(option) {
     // When pressing a button, changes the crawler to the proper line, adds that line to the route and updates HTML to show nwe values. If a result is reached, shows that group's info.
-
-    // Checks if the button is A or B. Then proceeds with modifications.
-    if (id == "pathA") {
-        // Checks if pathA is a path or a result. If it is a result, show result information; if it is a path, continue iterating.
-        if (typeof data[crawler]["pathA"] != "number") {
-
-            // Show result box
-            document.getElementById("boxA").style.display = "block";
-
-            // Updates HTML values with title, wikipedia link and image
-            document.getElementById("resultA").innerHTML = data[crawler]["pathA"];
-            document.getElementById("linkA").innerHTML = "Wikipedia";
-            document.getElementById("linkA").href= "https://pt.wikipedia.org/wiki/" + data[crawler]["pathA"];
-            imageQuery(data[crawler]["pathA"], "imgA");
-            
-
-        } else {
-
-            // Update crawler to be pathA, going to the next line
-            crawler = data[crawler]["pathA"];
+    // Checks if pathA is a path or a result. If it is a result, show result information; if it is a path, continue iterating.
+    if (typeof data[crawler][`path${option}`] != "number") {
     
-            // Add number to route list
-            route.push(' ' + data[crawler]["index"]);
-    
-            // Update HTML values
-            updateHTML();
-        };
-    };
-
-    if (id == "pathB") {
-        if (typeof data[crawler]["pathB"] != "number") {
-
-            // Show result box
-            document.getElementById("boxB").style.display = "block";
-
-            // Updates HTML values with title, wikipedia link and image
-            document.getElementById("resultB").innerHTML = data[crawler]["pathB"];
-            document.getElementById("linkB").innerHTML = "Wikipedia";
-            document.getElementById("linkB").href= "https://pt.wikipedia.org/wiki/" + data[crawler]["pathB"];
-            imageQuery(data[crawler]["pathB"], "imgB");
-
-
-        } else {
-
-            // Update crawler to be pathB, going to the next line
-            crawler = data[crawler]["pathB"];
-    
-            // Add number to route list
-            route.push(' ' + data[crawler]["index"]);
-    
-            // Update HTML values
-            updateHTML();
-        };
+        // Show result box
+        document.getElementById(`box${option}`).style.display = "block";
+        
+        // Updates HTML values with title, wikipedia link and image
+        document.getElementById(`result${option}`).innerHTML = data[crawler][`path${option}`];
+        document.getElementById(`link${option}`).href= "https://pt.wikipedia.org/wiki/" + data[crawler][`path${option}`];
+        imageQuery(data[crawler][`path${option}`], `img${option}`);
+        
+    } else {
+        // Update crawler to be pathA, going to the next line
+        crawler = data[crawler][`path${option}`];
+        
+        // Add number to route list
+        route.push(' ' + data[crawler]["index"]);
+        
+        // Update HTML values
+        updateHTML();
     };
 };
     
@@ -121,8 +88,6 @@ function back() {
     document.getElementById("boxB").style.display = "none";
 
 };
-
-var query = "Zamiaceae";
 
 async function imageQuery(query, imgX){
     var url_list = [];
