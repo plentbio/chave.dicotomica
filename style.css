@@ -1,104 +1,80 @@
-/* Global style */
 body {
-    font-family: Helvetica, sans-serif;
-}
-
-/* Buttons */
-.button {
-  background-color: rgb(150, 121, 61); /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
-
-.buttonKeys {
-    background-color: rgb(150, 121, 61); /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-}
-
-.buttonBack {
-    background-color: #899F4A; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-}
-
-/* Columns */
-.container {
-    display: grid;
-    grid-template-columns: 50% 50%;
-    background-color: rgb(43, 77, 27);
-    padding: 10px;
-}
-
-.container2 {
-    display: grid;
-    grid-template-columns: 33.33% 33.33% 33.33%;
-    background-color: rgb(43, 77, 27);
-    padding: 10px;
-}
-
-.column {
-    background-color: rgba(255, 255, 255, 0.582);
-    border: 1px solid rgba(0, 0, 0, 0.8);
-    padding: 20px;
-    font-size: 30px;
-    text-align: center;
-}
-
-.column2 {
-    background-color: rgba(255, 255, 255, 0.582);
-    border: 1px solid rgba(0, 0, 0, 0.8);
-    text-align: center;
-}
-
-/* Result boxes */
-.hidden {
-    display: none;
-    background-color: rgb(255, 255, 255);
-    border: 1px solid rgba(0, 0, 0, 0.8);
-    text-align: center;
-}
-
-/* Images 
-.responsive {
-    width: 100%;
-    height: auto;
-    border: 5px solid rgb(43, 77, 27);
-}
-*/
-
-/* Text*/
-p {
-    font-size: 24px;
+    background-color: rgb(30, 30, 30);
 }
 
 h1 {
+    color: white;
     text-align: center;
 }
 
 h2 {
-    font-size: 24px;
+    color: white;
+    text-align: center;
 }
 
-h3 {
-    font-size: 24px;
+.flex-container {
+    display: flex;
 }
 
-.header {
-    color: rgb(43, 77, 27);
+.flex-container div {
+    background: peachpuff;
+    border: 4px solid brown;
+    height: 100px;
+    flex: 1 1 0%;
 }
+
+
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* ~~ Top Navigation Bar ~~ */
+
+#navigation-container {
+  margin: 0 auto;
+  height: 70px;
+}
+
+.navigation-bar {
+    background-color: rgb(60, 60, 60);
+    height: 8vh;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    overflow: hidden;
+    display: flex;
+}
+
+.navigation-bar img{
+}
+
+.navigation-bar ul {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.navigation-bar li {
+    list-style-type: none;
+    padding: 0px;
+    height: 24px;
+    display: inline;
+}
+
+.navigation-bar li a {
+    color: #f2f2f2;
+    font-size: 16px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    line-height: 70px;
+    padding: 14px 16px;
+    opacity: 0.7;
+}
+
