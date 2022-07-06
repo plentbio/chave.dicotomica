@@ -150,7 +150,7 @@ section {
 }
 
 #resultBox {
-    display: none;
+    display: block;
 }
 
 /*---------------------------------------
