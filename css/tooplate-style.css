@@ -333,18 +333,18 @@ http://www.tooplate.com/view/2106-soft-landing
 
 
   /*---------------------------------------
-      FEATURE              
+      SOBRE              
   -----------------------------------------*/
 
-  #feature .nav-tabs {
+  #sobre .nav-tabs {
     border-bottom: 0;
   }
 
-  #feature .nav>li>a {
+  #sobre .nav>li>a {
     padding: 8px 0;
   }
 
-  #feature .nav-tabs>li>a {
+  #sobre .nav-tabs>li>a {
     color: #999999;
     font-size: 18px;
     border: 0;
@@ -353,22 +353,22 @@ http://www.tooplate.com/view/2106-soft-landing
     margin-right: 35px;
   }
 
-  #feature .nav-tabs>li.active>a, 
-  #feature .nav-tabs>li.active>a:focus, 
-  #feature .nav-tabs>li.active>a:hover {
+  #sobre .nav-tabs>li.active>a, 
+  #sobre .nav-tabs>li.active>a:focus, 
+  #sobre .nav-tabs>li.active>a:hover {
     background: transparent;
     color: #202020;
     border-bottom: 3px solid #29ca8e;
   }
 
-  #feature .nav>li>a:focus, 
-  #feature .nav>li>a:hover {
+  #sobre .nav>li>a:focus, 
+  #sobre .nav>li>a:hover {
     background: transparent;
     border-bottom: 3px solid #29ca8e;
     color: #202020;
   }
 
-  #feature .tab-content {
+  #sobre .tab-content {
     margin-top: 50px;
   }
 
@@ -380,7 +380,7 @@ http://www.tooplate.com/view/2106-soft-landing
     margin: 0 0 5px 0;
   }
 
-  .feature-image {
+  .sobre-image {
     position: absolute;
     bottom: -27em;
   }
@@ -466,12 +466,12 @@ http://www.tooplate.com/view/2106-soft-landing
       padding-left: 15px;
     }
 
-    #feature .nav-tabs>li>a {
+    #sobre .nav-tabs>li>a {
       font-size: 16px;
       margin-right: 20px;
     }
 
-    .feature-image {
+    .sobre-image {
       bottom: -24em;
     }
 
@@ -516,7 +516,7 @@ http://www.tooplate.com/view/2106-soft-landing
       color: #656565;
     }
 
-    .feature-image {
+    .sobre-image {
       position: relative;
       bottom: 0;
     }
