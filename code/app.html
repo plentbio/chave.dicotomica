@@ -1,90 +1,121 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
 
-        <!-- Loads required JS codes. Some of them are data files disguised as JS. -->
-        <script src="/data/data.js"></script>
-        <script src="/code/js/app_functions.js"></script>
+	<title>Chave Dicotômica - App</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-        <!-- Loads style.css -->
-        <link rel="stylesheet" href="/OLDstyle.css">
-        
-        <title>Chave Dicotômica - Sistemática</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
-    </head>
-    <body>
-        <!-- Page title, displays on top -->
-        <header>
-            <h1>Chave Dicotômica - App</h1>
-        </header>
-        
-        <main>
+     <!-- MAIN CSS -->
+     <link rel="stylesheet" href="/css/new-app-style.css">
+
+</head>
+<body>
+    <!-- PRE LOADER -->
+    <section class="preloader">
+        <div class="spinner">
+            <span class="spinner-rotate"></span>  
+        </div>
+    </section>
+
+    <!-- HEADER -->
+    <section class="header">
         <div class="container">
-            <div class="column">
-                <!-- This is the left column-->
+            <div class="row align-items-center header-box">
+                <div class="col-sm-4">
+                    <h2 id="header-box-title"><a href="/index.html">Sistemática Botânica</a></h2>
+                </div>
 
-                <h2 id="propA">Começar</h2>
-                <button class="button" id="pathA" onclick="button('A')">1</button>
+                <div class="col-sm-4">
+                    <h3 id="line">Linha</h3>
+                </div>
+
+                <div class="col-sm-4">
+                    <label for="chave"><h3>Chave: </h3></label>
+                    <select name="cars" id="cars">
+                        <option value="Chave1">Chave1</option>
+                        <option value="Chave2">Chave2</option>
+                        <option value="Chave3">Chave3</option>
+                        <option value="Chave4">Chave4</option>
+                    </select>
+                </div>
+            </div>
+       </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <div class="row justify-content-around">
+                <div class="col-sm-4 propBox">
+                    <h3 id="propA">Começar</h3>
+                    <button class="action-button" id="pathA" onclick="button('A')">1</button>
+                </div>
                 
-                <div class="hidden" id="boxA">
-                    <!-- This hidden block only shows when user reaches a result-->
-                    
-                    <h2 id="resultA"></h2>
-                    <a id="linkA" href="#" target="_blank" rel="noopener noreferrer"> Wikipedia </a>
-                    <figure>
-                        <img id="imgA" src="" alt="" class="responsive" alt="Imagem representante do grupo">
-                    </figure>
+                <div class="col-sm-4 propBox">
+                    <h3 id="propB">Começar</h3>
+                    <button class="action-button" id="pathB" onclick="button('B')">1</button>
                 </div>
             </div>
+        </div>
+    </section>
 
-            <div class="column">
-                <!-- This is the left column-->
-
-                <h2 id="propB">Começar</h2>
-                <button class="button" id="pathB" onclick="button('B')">1</button>
-
-                <div class="hidden" id="boxB">
-                    <!-- This hidden block only shows when user reaches a result-->
-
-                    <h2 id="resultB"></h2>
-                    <a id="linkB" href="#" target="_blank" rel="noopener noreferrer"> Wikipedia </a>
+    <section>
+        <div class="container" id="resultBox">
+            <div class="row justify-content-around">
+                <div class="col-sm-6 resultBox">
+                    <h2 id="result">Resultado</h2>
+                    <a id="link" href="#" target="_blank" rel="noopener noreferrer"> Wikipedia </a>
                     <figure>
-                        <img id="imgB" src="" alt="" class="responsive" alt="Imagem representante do grupo">
+                        <img id="resultImg" src="" alt="" alt="Imagem representante do grupo">
                     </figure>
                 </div>
             </div>
         </div>
+    </section>
 
+    <section>
+    <h2 id="route">Caminho até aqui:</h2>
+    </section>
 
-        <div class="container2">
+    <!-- FOOTER -->
+    <footer id="footer" data-stellar-background-ratio="0.5">
+        <div class="container">
+            <div class="row">
+                <div class="copyright-text col-md-12 col-sm-12">
+                    <div class="col-md-6 col-sm-6">
+                        <h3>Desenvolvido por Scientia Amabilis - UFSC</h3>
+                    </div>
 
-            <div class="column2">
-                <h3>Chave atual:</h3>
-                <p id="currentKey"></p>
-            </div>
-
-            <div class="column2">
-                <h3>Linha atual:</h3>
-                <p id="line"></p>
-            </div>
-
-            <div class="column2"> 
-                <h3>Caminho até aqui:</h3>
-                <p id="route"></p>
+                    <div class="col-md-6 col-sm-6">
+                        <ul class="social-icon">
+                            <li><a href="#" class="fa fa-facebook-square" attr="facebook icon"></a></li>
+                            <li><a href="#" class="fa fa-twitter"></a></li>
+                            <li><a href="#" class="fa fa-instagram"></a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
+    </footer>
 
-        
-        </br>
-        <button class="buttonKeys" id="keyA" onclick="buttonKey(this.id)">Chave A</button>
-        <button class="buttonKeys" id="keyB" onclick="buttonKey(this.id)">Chave B</button>
-        <button class="buttonKeys" id="keyC" onclick="buttonKey(this.id)">Chave C</button>
-        <button class="buttonKeys" id="keyD" onclick="buttonKey(this.id)">Chave D</button>
 
-        <button class="buttonBack" id="back" onclick="back()">Voltar</button>
+    <!-- SCRIPTS -->
+    <script src="/code/js/jquery.js"></script>
+    <script src="/code/js/bootstrap.min.js"></script>
+    <script src="/code/js/jquery.stellar.min.js"></script>
+    <script src="/code/js/owl.carousel.min.js"></script>
+    <script src="/code/js/smoothscroll.js"></script>
+    <script src="/code/js/custom.js"></script>
+    <script src="/data/data.js"></script>
+    <script src="/code/js/app_functions.js"></script>
 
-        </main>
-    </body>
+</body>
 </html>
+
+
+
+<!------------------------------------------------------------------------------------------------------->

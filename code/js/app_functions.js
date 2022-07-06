@@ -7,12 +7,12 @@ var crawler = 0;
 
 function updateHTML() {
     // Updates the HTML ids to show new values, based on the current line. This is an auxiliary function called by other functions.
-    document.getElementById("line").innerHTML = data[crawler]["index"];
+    document.getElementById("line").innerHTML = `Linha ${data[crawler]["index"]}`;
     document.getElementById("propA").innerHTML = data[crawler]["propA"];
     document.getElementById("pathA").innerHTML = data[crawler]["pathA"];
     document.getElementById("propB").innerHTML = data[crawler]["propB"];
     document.getElementById("pathB").innerHTML = data[crawler]["pathB"];
-    document.getElementById("route").innerHTML = route;
+    document.getElementById("route").innerHTML = `Caminho até aqui: ${route}`;
 };
 
 function button(option) {
@@ -21,12 +21,12 @@ function button(option) {
     if (typeof data[crawler][`path${option}`] != "number") {
     
         // Show result box
-        document.getElementById(`box${option}`).style.display = "block";
+        document.getElementById(`resultBox`).style.display = "block";
         
         // Updates HTML values with title, wikipedia link and image
-        document.getElementById(`result${option}`).innerHTML = data[crawler][`path${option}`];
-        document.getElementById(`link${option}`).href= "https://pt.wikipedia.org/wiki/" + data[crawler][`path${option}`];
-        imageQuery(data[crawler][`path${option}`], `img${option}`);
+        document.getElementById(`result`).innerHTML = data[crawler][`path${option}`];
+        document.getElementById(`link`).href= "https://pt.wikipedia.org/wiki/" + data[crawler][`path${option}`];
+        imageQuery(data[crawler][`path${option}`], "resultImg");
         
     } else {
         // Update crawler to be pathA, going to the next line
@@ -40,35 +40,6 @@ function button(option) {
     };
 };
     
-function buttonKey(id) {
-    // Changes -data- to the desired key, then hides selection buttons
-    
-    // Check keys for each case
-    switch (id) {
-        case "keyA":
-            document.getElementById("currentKey").innerHTML = "Chave A";
-            break;
-
-        case "keyB":
-            document.getElementById("currentKey").innerHTML = "Chave B";
-
-        case "keyC":
-            document.getElementById("currentKey").innerHTML = "Chave C";
-
-        case "keyD":
-            document.getElementById("currentKey").innerHTML = "Chave D";
-
-        default:
-            break;
-    }
-
-    // Hides all key buttons
-    var keys = document.getElementsByClassName("buttonKeys");
-    var i;
-    for (i = 0; i < keys.length; i++) {
-        keys[i].style.display = 'none';
-    };
-};
 
 function back() {
     // Goes back one step, updating crawler and route.
@@ -89,7 +60,7 @@ function back() {
 
 };
 
-async function imageQuery(query, imgX){
+async function imageQuery(query){
     var url_list = [];
 
     var url = "https://pt.wikipedia.org/w/api.php"; 
@@ -114,6 +85,6 @@ async function imageQuery(query, imgX){
     for (var page in pages) {
         image_url = pages[page].thumbnail.source;
         console.log(image_url);
-        document.getElementById(imgX).src = image_url;
+        document.getElementById("resultImg").src = image_url;
     };
 };

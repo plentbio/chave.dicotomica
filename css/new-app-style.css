@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  overflow-x: hidden;
+  background: #f9f9f9;
+  text-align: center;
+
+}
+
+/*---------------------------------------
+   TYPOGRAPHY              
+-----------------------------------------*/
+
+h1,h2,h3,h4,h5,h6 {
+  font-weight: 300;
+  line-height: normal;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  color: #353535;
+  font-size: 2em;
+}
+
+p {
+  color: #757575;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 24px;
+}
+
+html{
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: #202020;
+  text-decoration: none !important;
+}
+
+a,
+input, button,
+.form-control {
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+a:hover, a:active, a:focus {
+  color: #29ca8e;
+  outline: none;
+}
+
+::-webkit-scrollbar{
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  cursor: pointer;
+  background: #202020;
+}
+
+section {
+    position: relative;
+    padding: 30px 0;
+}
+
+.overlay {
+  background: #536976;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  opacity: 0.9;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/*---------------------------------------
+       PRE LOADER              
+-----------------------------------------*/
+.preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 99999;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  background: none repeat scroll 0 0 #ffffff;
+}
+
+.spinner {
+  border: 1px solid transparent;
+  border-radius: 3px;
+  position: relative;
+}
+
+.spinner:before {
+  content: '';
+  box-sizing: border-box;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 45px;
+  height: 45px;
+  margin-top: -10px;
+  margin-left: -10px;
+  border-radius: 50%;
+  border: 1px solid #575757;
+  border-top-color: #ffffff;
+  animation: spinner .9s linear infinite;
+}
+
+@keyframes spinner {
+  to {transform: rotate(360deg);}
+}
+
+/*---------------------------------------
+    APP              
+-----------------------------------------*/
+
+.headerBox {
+    background: #757575;
+    height: 250px;
+}
+
+.propBox {
+    border-radius: 25px;
+    border: 10px solid #73AD21;
+    height: auto;
+    min-height: 200px;
+
+    position: relative;
+}
+
+.resultBox {
+    background: #757575;
+    height: auto;
+}
+
+#resultBox {
+    display: none;
+}
+
+/*---------------------------------------
+   BUTTONS               
+-----------------------------------------*/
+
+.action-button {
+    border-color: #f0f0f0;
+    border-radius: 50px;
+    box-shadow: none;
+    height: 50px;
+    background: #29ca8e;
+    border: 0;
+    color: #ffffff;
+    width: 50%;
+
+    position: absolute;
+    bottom: 0px;
+  }
+  
+  .action-button:hover {
+    background: #202020;
+    color: #ffffff;
+  }
+
+/*---------------------------------------
+    FOOTER              
+-----------------------------------------*/
+
+footer {
+  padding-bottom: 80px;
+}
+
+.copyright-text p {
+  margin: 5px;
+}
+
+
+/*---------------------------------------
+    SOCIAL ICON              
+-----------------------------------------*/
+
+.social-icon {
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
+
+.social-icon li {
+  display: inline-block;
+  list-style: none;
+}
+
+.social-icon li a {
+  border-radius: 50px;
+  color: #202020;
+  font-size: 30px;
+  width: 70px;
+  height: 35px;
+  line-height: 70px;
+  text-decoration: none;
+  text-align: center;
+  position: relative;
+  margin: 5px 5px 5px 0;
+}
+
+.social-icon li a:hover {
+  color: #29ca8e;
+}
