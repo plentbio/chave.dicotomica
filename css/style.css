@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+/* Beggining of Navigation bar styling */
+
+li, a {
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+}
+
+header {
+    background-color: rgb(30, 30, 30);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+
+.logo-container {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.logo-container img {
+    height: 100%;
+}
+
+.nav-list {
+    list-style: none;
+}
+
+.nav-list li {
+    display: inline-block;
+    padding: 0px 9px;
+}
+
+.nav-list li a {
+    transition: all 0.3s ease 0s;
+}
+
+.nav-list li a:hover {
+    transition: all 0.3s ease 0s;
+    color:#11823b
+}
+
+@media screen and (max-width: 640px){
+    .logo-container {
+        width: 50px!important;
+        height: 50px!important;
+    }
+}
+
+/* End of Navigation bar styling */
+
+
+/* Beggining of sections styling */
+.container {
+    width: 100%;
+    height: 30vh;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.inner-container {
+    width: 40vh;
+    padding: 25px;
+    border: 5px solid black;
+    margin: auto;
+}
+
+#app {
+    background: url('/ivars-utinans-vkQgb1lZZPQ-unsplash.jpg');
+    background-size: cover;    
+}
+
+#app-box {
+    background-color: rgba(189, 189, 189, 0.8);
+}
+
+#sobre {
+    color: #fff;
+    background-color: rgb(30, 30, 30);
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: white;
+}
