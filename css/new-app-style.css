@@ -136,21 +136,36 @@ section {
 }
 
 .propBox {
+    background: #f9f9f9;
     border-radius: 25px;
     border: 10px solid #73AD21;
     height: auto;
-    min-height: 200px;
+    min-height: 250px;
 
     position: relative;
 }
 
 .resultBox {
-    background: #757575;
+    background: #f9f9f9;
     height: auto;
+    width: auto;
+    border-radius: 25px;
+    border: 10px solid #73AD21;
 }
 
 #resultBox {
-    display: block;
+    display: none;
+}
+
+#resultImg {
+    margin: 20px 20px 20px 20px;
+}
+
+
+#home {
+    background: #292E49;
+    background-size: cover;
+    min-height: 60vh;
 }
 
 /*---------------------------------------
@@ -168,7 +183,8 @@ section {
     width: 50%;
 
     position: absolute;
-    bottom: 0px;
+    bottom: -30px;
+    right: 80px
   }
   
   .action-button:hover {
@@ -177,46 +193,47 @@ section {
   }
 
 /*---------------------------------------
-    FOOTER              
------------------------------------------*/
+     FOOTER              
+  -----------------------------------------*/
 
-footer {
-  padding-bottom: 80px;
-}
+  footer {
+    padding-bottom: 80px;
+  }
 
-.copyright-text p {
-  margin: 5px;
-}
+  .copyright-text p {
+    margin: 5px;
+  }
 
 
-/*---------------------------------------
-    SOCIAL ICON              
------------------------------------------*/
 
-.social-icon {
-  position: relative;
-  padding: 0;
-  margin: 0;
-}
+  /*---------------------------------------
+     SOCIAL ICON              
+  -----------------------------------------*/
 
-.social-icon li {
-  display: inline-block;
-  list-style: none;
-}
+  .social-icon {
+    position: relative;
+    padding: 0;
+    margin: 0;
+  }
 
-.social-icon li a {
-  border-radius: 50px;
-  color: #202020;
-  font-size: 30px;
-  width: 70px;
-  height: 35px;
-  line-height: 70px;
-  text-decoration: none;
-  text-align: center;
-  position: relative;
-  margin: 5px 5px 5px 0;
-}
+  .social-icon li {
+    display: inline-block;
+    list-style: none;
+  }
 
-.social-icon li a:hover {
-  color: #29ca8e;
-}
+  .social-icon li a {
+    border-radius: 50px;
+    color: #202020;
+    font-size: 30px;
+    width: 70px;
+    height: 35px;
+    line-height: 70px;
+    text-decoration: none;
+    text-align: center;
+    position: relative;
+    margin: 5px 5px 5px 0;
+  }
+
+  .social-icon li a:hover {
+    color: #29ca8e;
+  }
