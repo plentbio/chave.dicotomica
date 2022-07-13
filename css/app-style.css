@@ -159,7 +159,6 @@ section {
   border: 10px solid #73AD21;
 }
 
-
 #resultBox {
   display: none;
 }
@@ -168,13 +167,11 @@ section {
   margin: 20px 20px 20px 20px;
 }
 
-
 #home {
   background: #292E49;
   background-size: cover;
   min-height: 80vh;
 }
-
 
 
 /*---------------------------------------
@@ -199,9 +196,7 @@ section {
   position: absolute;
   bottom: -30px;
   right: 80px;
-  
   width: 50%;
-
 }
 
 #start {
@@ -213,7 +208,6 @@ section {
   width: 15%;
   display: none;
 }
-
 
 
 /*---------------------------------------
@@ -258,4 +252,125 @@ footer {
 .social-icon li a:hover {
   background: #536976;
   color: #ffffff;
+}
+
+
+/*---------------------------------------
+   RESPONSIVE STYLES              
+-----------------------------------------*/
+@media only screen and (max-width: 1200px) {
+  .custom-navbar .navbar-nav {
+    margin-left: 3em;
+  }
+  .home-info {
+    margin-top: 0;
+  }
+
+  .path {
+    position: absolute;
+    bottom: -30px;
+    right: 75px;
+    
+    width: 50%;
+  
+  }
+  
+
+}
+
+@media only screen and (max-width: 992px) {
+  section {
+    padding: 60px 0;
+  }
+  .custom-navbar .navbar-nav {
+    margin-left: 0;
+  }
+  .custom-navbar .nav li a {
+    font-size: 14px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  #feature .nav-tabs>li>a {
+    font-size: 16px;
+    margin-right: 20px;
+  }
+  .feature-image {
+    bottom: -24em;
+  }
+  .pricing-thumb {
+    margin-bottom: 30px;
+  }
+  footer {
+    padding-bottom: 40px;
+  }
+  .path {
+    position: absolute;
+    bottom: -30px;
+    right: 50px;
+    
+    width: 50%;
+  
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .section-title {
+    padding-bottom: 20px;
+  }
+  .custom-navbar {
+    background: #ffffff;
+    -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
+    padding: 10px 0;
+    text-align: center;
+  }
+  .custom-navbar .nav li a {
+    line-height: normal;
+    padding: 5px;
+  }
+  .custom-navbar .navbar-brand,
+  .top-nav-collapse .navbar-brand {
+    color: #202020;
+    font-weight: normal;
+  }
+  .custom-navbar .nav li a,
+  .top-nav-collapse .nav li a {
+    color: #656565;
+  }
+
+  .path {
+    position: absolute;
+    bottom: -30px;
+    right: 40px;
+    
+    width: 50%;
+  
+  }
+}
+
+
+
+@media screen and (max-width: 575px) {
+  .propBox {
+    margin: 25px 25px;
+
+  }
+
+  .path {
+    position: absolute;
+    bottom: -30px;
+    right: 125px;
+    
+    width: 50%;
+  
+  }
+
+  #resultImg {
+    height: auto;
+    width: 100%;
+  }
+  
+
+
 }
