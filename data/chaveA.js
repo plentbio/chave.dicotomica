@@ -1,4 +1,11 @@
-const key = `[
+const chaveA = `[
+{
+"index": 0,
+"propA": "Prop 0A",
+"pathA": 1,
+"propB": "Prop 0B",
+"pathB": 1
+},
 {
 "index": 1,
 "propA": "Folhas compostas, pinadas",

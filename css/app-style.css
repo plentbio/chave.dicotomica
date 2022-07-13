@@ -130,67 +130,90 @@ section {
 /*---------------------------------------
     APP              
 -----------------------------------------*/
+.header {
+  height: auto;
+  min-height: 180px;
+}
 .headerBox {
-    background: #757575;
-    height: 250px;
+  background: #757575;
+  height: 250px;
 }
 
 .propBox {
-    background: #f9f9f9;
-    border-radius: 25px;
-    border: 10px solid #73AD21;
-    height: auto;
-    min-height: 250px;
+  background: #f9f9f9;
+  border-radius: 25px;
+  border: 10px solid #73AD21;
+  height: auto;
+  min-height: 250px;
 
-    position: relative;
+  position: relative;
+
+  display: none;
 }
 
 .resultBox {
-    background: #f9f9f9;
-    height: auto;
-    width: auto;
-    border-radius: 25px;
-    border: 10px solid #73AD21;
+  background: #f9f9f9;
+  height: auto;
+  width: auto;
+  border-radius: 25px;
+  border: 10px solid #73AD21;
 }
 
+
 #resultBox {
-    display: none;
+  display: none;
 }
 
 #resultImg {
-    margin: 20px 20px 20px 20px;
+  margin: 20px 20px 20px 20px;
 }
 
 
 #home {
-    background: #292E49;
-    background-size: cover;
-    min-height: 80vh;
+  background: #292E49;
+  background-size: cover;
+  min-height: 80vh;
 }
+
 
 
 /*---------------------------------------
    BUTTONS               
 -----------------------------------------*/
 .action-button {
-    border-color: #f0f0f0;
-    border-radius: 50px;
-    box-shadow: none;
-    height: 50px;
-    background: #29ca8e;
-    border: 0;
-    color: #ffffff;
-    width: 50%;
-
-    position: absolute;
-    bottom: -30px;
-    right: 80px
-  }
+  border-color: #f0f0f0;
+  border-radius: 50px;
+  box-shadow: none;
+  height: 50px;
+  background: #29ca8e;
+  border: 0;
+  color: #ffffff;
+}
   
 .action-button:hover {
   background: #202020;
   color: #ffffff;
 }
+
+.path {
+  position: absolute;
+  bottom: -30px;
+  right: 80px;
+  
+  width: 50%;
+
+}
+
+#start {
+  width: 35%;
+  display: inline;
+}
+
+#back {
+  width: 15%;
+  display: none;
+}
+
 
 
 /*---------------------------------------

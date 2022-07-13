@@ -1,7 +1,13 @@
 // Loads file with JSON data
-const data = JSON.parse(key);
+var data = JSON.parse(chave1);
 
 // Creates empty list and index variables
+var chaves = {
+    "Chave1": chave1,
+    "Chave A": chaveA,
+    "Chave B": chaveB
+}
+
 var route = [];
 var crawler = 0;
 
@@ -12,22 +18,66 @@ function updateHTML() {
     document.getElementById("pathA").innerHTML = data[crawler]["pathA"];
     document.getElementById("propB").innerHTML = data[crawler]["propB"];
     document.getElementById("pathB").innerHTML = data[crawler]["pathB"];
-    document.getElementById("route").innerHTML = `Caminho até aqui: ${route}`;
+    document.getElementById("route").innerHTML = `(${route})`;
+};
+
+
+function beginning() {
+    document.getElementById("start").style.display = "inline";
+
+    document.getElementById("back").style.display = "none";
+    var boxes = document.getElementsByClassName("propBox");
+    for (var i = 0; i < boxes.length; i += 1) {
+        boxes[i].style.display = "none";        
+    }
+    document.getElementById("resultBox").style.display = "none";
+
+    route = [];
+    crawler = 0;
+
+    document.getElementById("route").innerHTML = "";
+    document.getElementById("line").innerHTML = "Linha e Caminho";
+};
+
+
+function start() {
+    var boxes = document.getElementsByClassName("propBox");
+    for (var i = 0; i < boxes.length; i += 1) {
+        boxes[i].style.display = "block";
+    }
+    document.getElementById("start").style.display = "none";
+    document.getElementById("back").style.display = "inline";
+
+    crawler = 1;
+    route.push("1");
+    
+    updateHTML();
+};
+
+function changeKey(keyString) {
+    data = JSON.parse(chaves[keyString]);
+    beginning();   
+};
+
+function changeSelect(target) {
+    document.getElementById("keys").value = target;
+    changeKey(target);
 };
 
 function button(option) {
     // When pressing a button, changes the crawler to the proper line, adds that line to the route and updates HTML to show nwe values. If a result is reached, shows that group's info.
     // Checks if pathA is a path or a result. If it is a result, show result information; if it is a path, continue iterating.
-    if (typeof data[crawler][`path${option}`] != "number") {
+    document.getElementById("resultBox").style.display = "none";
+
     
-        // Show result box
-        document.getElementById(`resultBox`).style.display = "block";
-        
-        // Updates HTML values with title, wikipedia link and image
-        document.getElementById(`result`).innerHTML = data[crawler][`path${option}`];
-        document.getElementById(`link`).href= "https://pt.wikipedia.org/wiki/" + data[crawler][`path${option}`];
-        imageQuery(data[crawler][`path${option}`], "resultImg");
-        
+    if (data[crawler][`path${option}`] in chaves) {
+
+        changeSelect(data[crawler][`path${option}`]);
+
+    } else if (typeof data[crawler][`path${option}`] != "number") {
+
+        result(option);
+
     } else {
         // Update crawler to be pathA, going to the next line
         crawler = data[crawler][`path${option}`];
@@ -39,8 +89,17 @@ function button(option) {
         updateHTML();
     };
 };
-    
 
+function result(option) {
+    // Show result box
+    document.getElementById(`resultBox`).style.display = "block";
+        
+    // Updates HTML values with title, wikipedia link and image
+    document.getElementById(`result`).innerHTML = data[crawler][`path${option}`];
+    document.getElementById(`link`).href= "https://pt.wikipedia.org/wiki/" + data[crawler][`path${option}`];
+    imageQuery(data[crawler][`path${option}`], "resultImg");
+};
+    
 function back() {
     // Goes back one step, updating crawler and route.
 
@@ -55,8 +114,7 @@ function back() {
         updateHTML();  
     };
 
-    document.getElementById("boxA").style.display = "none";
-    document.getElementById("boxB").style.display = "none";
+    document.getElementById("resultBox").style.display = "none";
 
 };
 
@@ -76,15 +134,18 @@ async function imageQuery(query){
     url = url + "?origin=*";
     Object.keys(params).forEach(function(key){url += "&" + key + "=" + params[key];});
 
-    console.log(url);
     let response = await fetch(url);
     let json = await response.json();
-    console.log(json);
-    
+   
     var pages = json.query.pages;
     for (var page in pages) {
-        image_url = pages[page].thumbnail.source;
-        console.log(image_url);
+        console.log(pages[page].thumbnail)
+        if (typeof(pages[page].thumbnail) == "undefined") {            
+            image_url = "/images/no-image.png";
+        } else {
+            image_url = pages[page].thumbnail.source;
+        }
+
         document.getElementById("resultImg").src = image_url;
     };
 };
