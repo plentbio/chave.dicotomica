@@ -5,13 +5,12 @@ body {
   overflow-x: hidden;
   background: #f9f9f9;
   text-align: center;
-
 }
+
 
 /*---------------------------------------
    TYPOGRAPHY              
 -----------------------------------------*/
-
 h1,h2,h3,h4,h5,h6 {
   font-weight: 300;
   line-height: normal;
@@ -83,6 +82,7 @@ section {
   height: 100%;
 }
 
+
 /*---------------------------------------
        PRE LOADER              
 -----------------------------------------*/
@@ -126,10 +126,10 @@ section {
   to {transform: rotate(360deg);}
 }
 
+
 /*---------------------------------------
     APP              
 -----------------------------------------*/
-
 .headerBox {
     background: #757575;
     height: 250px;
@@ -165,13 +165,13 @@ section {
 #home {
     background: #292E49;
     background-size: cover;
-    min-height: 60vh;
+    min-height: 80vh;
 }
+
 
 /*---------------------------------------
    BUTTONS               
 -----------------------------------------*/
-
 .action-button {
     border-color: #f0f0f0;
     border-radius: 50px;
@@ -187,53 +187,52 @@ section {
     right: 80px
   }
   
-  .action-button:hover {
-    background: #202020;
-    color: #ffffff;
-  }
+.action-button:hover {
+  background: #202020;
+  color: #ffffff;
+}
+
 
 /*---------------------------------------
-     FOOTER              
-  -----------------------------------------*/
+   FOOTER              
+-----------------------------------------*/
+footer {
+  padding-bottom: 50px;
+}
 
-  footer {
-    padding-bottom: 80px;
-  }
-
-  .copyright-text p {
-    margin: 5px;
-  }
-
+.copyright-text p {
+  margin: 5px;
+}
 
 
-  /*---------------------------------------
-     SOCIAL ICON              
-  -----------------------------------------*/
+/*---------------------------------------
+   SOCIAL ICON              
+-----------------------------------------*/
+.social-icon {
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
 
-  .social-icon {
-    position: relative;
-    padding: 0;
-    margin: 0;
-  }
+.social-icon li {
+  display: inline-block;
+  list-style: none;
+}
 
-  .social-icon li {
-    display: inline-block;
-    list-style: none;
-  }
+.social-icon li a {
+  border-radius: 50px;
+  color: #202020;
+  font-size: 30px;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  text-decoration: none;
+  text-align: center;
+  position: relative;
+  margin: 5px 5px 5px 0;
+}
 
-  .social-icon li a {
-    border-radius: 50px;
-    color: #202020;
-    font-size: 30px;
-    width: 70px;
-    height: 35px;
-    line-height: 70px;
-    text-decoration: none;
-    text-align: center;
-    position: relative;
-    margin: 5px 5px 5px 0;
-  }
-
-  .social-icon li a:hover {
-    color: #29ca8e;
-  }
+.social-icon li a:hover {
+  background: #536976;
+  color: #ffffff;
+}
