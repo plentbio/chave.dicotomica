@@ -1,0 +1,59 @@
+1
+Folhas compostas, pinadas
+2
+Folhas simples
+3
+
+2
+Folíolos sem nervura central evidente, megasporófilos dispostos em megastróbilos
+Zamiaceae
+Folíolos com nervura central evidente, megasporófilos não dispostos em megastróbilos
+Cycadaceae
+
+3
+Folhas flabeliformes
+Ginkgoaceae
+Folhas não flabeliformes
+4
+
+4
+Plantas herbáceas, com folhas opostas ou verticiladas, escamiformes
+Ephedraceae
+Plantas lenhosas, com folhas alternas ou, se opostas, não escamiformes
+5
+
+5
+Folhas peninérveas
+Gnetaceae
+Folhas uninérveas ou paralelinérveas
+6
+
+6
+Folhas dispostas em ramos curtos (braquiblastos)
+Pinaceae
+Folhas não dispostas em braquiblastos
+7
+
+7
+Megastróbilos ausentes ou pouco definidos
+8
+Megastróbilos bem definidos
+9
+
+8
+Microsporófilos com 2 microsporângios; grãos de pólen com vesículas de ar; sementes sustentadas por receptáculo carnoso
+Podocarpaceae
+Microsporófilos com 2-9 microsporângios; grãos de pólen sem vesículas de ar; sementes não sustentadas por receptáculo carnoso
+Taxaceae
+
+9
+Folhas com mais de 2 cm de largura
+Araucariaceae
+Folhas com menos de 2 cm de largura
+10
+
+10
+Megastróbilos com mais de 10 cm de comprimento
+Araucariaceae
+Megastróbilos com menos de 10 cm de comprimento
+Cupressaceae

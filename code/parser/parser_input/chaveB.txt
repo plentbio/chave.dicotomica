@@ -1,0 +1,197 @@
+1
+Folhas opostas ou verticiladas
+2
+Folhas alternas ou ausentes
+8
+
+2
+Folhas escamiformes
+Casuarinaceae
+Folhas não escamiformes
+3
+
+3
+Gineceu unicarpelar
+4
+Gineceu bi-pluricarpelar
+5
+
+4
+Folhas serreadas, concrescidas em um mesmo nó por uma ócrea formada pelas estípulas
+Chloranthaceae
+Folhas inteiras ou, se serreadas, não concrescidas
+Piperaceae
+
+5
+Ovário unilocular
+Piperaceae
+Ovário bi-tetralocular
+6
+
+6
+Plantas em geral com látex; ovário trilocular; fruto geralmente com deiscência explosiva (tricoca)
+Euphorbiaceae
+Plantas sem látex; ovário tetralocular pelo desenvolvimento de um falso septo; fruto indeiscente ou com deiscência não explosiva
+7
+
+7
+Flores solitárias
+Plantaginaceae
+Flores dispostas em espigas ou glomérulos
+Bataceae
+
+8
+Plantas afilas, aclorofiladas
+Balanophoraceae
+Plantas com folhas, às vezes reduzidas a escamas, clorofiladas
+9
+
+9
+Plantas aquáticas flutuantes ou submersas por quase todo o ciclo de vida, às vezes exceto pela inflorescência
+10
+Plantas terrestres ou, se aquáticas, não flutuantes nem submersas
+15
+
+10
+Plantas flutuantes
+Araceae
+Plantas submersas
+11
+
+11
+Plantas com discos adesivos, ocorrentes no leito rochoso de rios encachoeirados
+Podostemaceae
+Plantas sem discos adesivos, geralmente com outros tipos de habitats
+12
+
+12
+Inflorescência cimosa ou flores solitárias
+Cymodoceaceae
+Inflorescência espiciforme
+13
+
+13
+Folhas alternas dísticas
+Ruppiaceae
+Folhas alternas espiraladas
+14
+
+14
+Gineceu dialicarpelar
+Potamogetonaceae
+Gineceu gamocarpelar
+Cyperaceae
+
+15
+Inflorescência do tipo espádice
+16
+Inflorescência de outros tipos
+19
+
+16
+Gineceu 2-9-carpelar
+17
+Gineceu 10-pluricarpelar
+18
+
+17
+Espata única; estames (1-) 4-8 (-12), livres ou unidos entre si; gineceu 2-3(-pluri)-carpelar
+Araceae
+Espata única ou diversas; estames 6-numerosos, unidos entre si; gineceu 4-carpelar
+Cyclanthaceae
+
+18
+Plantas lenhosas
+Pandanaceae
+Plantas herbáceas
+Araceae
+
+19
+Folhas com bainha
+20
+Folhas sem bainha.
+24
+
+20
+Flores dispostas em espiguetas
+21
+Flores dispostas em espigas ou racemos
+22
+
+21
+Caule geralmente de seção triangular; folhas alternas espiraladas, com bainha geralmente fechada; fruto aquênio
+Cyperaceae
+Caule geralmente de seção circular ou achatado; folhas alternas dísticas ou muito raramente espiraladas, com bainha geralmente aberta; fruto cariopse
+Poaceae (Gramineae)
+
+22
+Gineceu 10-pluricarpelar
+Pandanaceae
+Gineceu 1-3-carpelar
+23
+
+23
+Gineceu unicarpelar
+Juncaginaceae
+Gineceu tricarpelar
+Typhaceae
+
+24
+Plantas hemiparasitas, com folhas escamiformes
+Balanophoraceae
+Plantas autótrofas, com folhas geralmente não escamiformes
+25
+
+25
+Ovário 2-3(-pluri)-locular
+26
+Ovário unilocular, raramente falsamente plurilocular pelo desenvolvimento das placentas
+30
+
+26
+Gineceu tricarpelar
+27
+Gineceu bicarpelar
+29
+
+27
+Plantas com látex
+Euphorbiaceae
+Plantas sem látex
+28
+
+28
+Plantas sem estípulas ou com estas inconspícuas
+Peraceae
+Plantas com estípulas
+Euphorbiaceae
+
+29
+Flores dispostas em amentilhos; óvulos com placentação pêndula
+Betulaceae
+Flores dispostas em glomérulos; óvulos com placentação axial
+Altingiaceae
+
+30
+Folhas compostas
+Juglandaceae
+Folhas simples
+31
+
+31
+Ovário com dois a muitos óvulos
+Salicaceae
+Ovário com um único óvulo
+32
+
+32
+Inflorescências opostas às folhas
+Piperaceae
+Inflorescências terminais ou axilares
+33
+
+33
+Óvulos com placentação ereta
+Piperaceae
+Óvulos com placentação pêndula
+Moraceae
