@@ -49,7 +49,7 @@ input, button,
 }
 
 a:hover, a:active, a:focus {
-  color: #29ca8e;
+  color: #11823b;
   outline: none;
 }
 
@@ -134,6 +134,7 @@ section {
   height: auto;
   min-height: 180px;
 }
+
 .headerBox {
   background: #757575;
   height: 250px;
@@ -142,7 +143,7 @@ section {
 .propBox {
   background: #f9f9f9;
   border-radius: 25px;
-  border: 10px solid #73AD21;
+  border: 10px solid #48bf53;
   height: auto;
   min-height: 250px;
 
@@ -158,7 +159,7 @@ section {
   height: auto;
   width: auto;
   border-radius: 25px;
-  border: 10px solid #73AD21;
+  border: 10px solid #48bf53;
   margin: 25px 0px 25px 0px;
 }
 
@@ -174,7 +175,7 @@ section {
 #home {
   background: #292E49;
   background-size: cover;
-  min-height: 80vh;
+  min-height: 50vh;
 }
 
 
@@ -186,7 +187,7 @@ section {
   border-radius: 50px;
   box-shadow: none;
   height: 50px;
-  background: #29ca8e;
+  background: #11823b;
   border: 0;
   color: #ffffff;
 }

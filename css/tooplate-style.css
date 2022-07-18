@@ -59,7 +59,7 @@ input, button,
 }
 
 a:hover, a:active, a:focus {
-  color: #29ca8e;
+  color: #11823b;
   outline: none;
 }
 
@@ -114,15 +114,14 @@ footer {
   box-shadow: none;
   height: 50px;
   margin-right: 0.5em;
-  background: #29ca8e;
+  background: #11823b;
   border: 0;
   color: #ffffff;
   width: 25%;
 }
 
 .action-button:hover {
-  background: #202020;
-  color: #ffffff;
+  background: #02231c;
 }
 
 
@@ -130,7 +129,7 @@ footer {
    BUTTONS - MENU              
 -----------------------------------------*/
 .section-btn {
-  background: #29ca8e;
+  background: #11823b;
   border: 0;
   border-radius: 50px;
   color: #ffffff;
@@ -229,7 +228,7 @@ footer {
 
 .custom-navbar .nav li a:hover {
   background: transparent;
-  color: #29ca8e;
+  color: #11823b;
 }
 
 .custom-navbar .navbar-nav > li > a:hover,
@@ -239,7 +238,7 @@ footer {
 
 .custom-navbar .nav li.active > a {
   background-color: transparent;
-  color: #29ca8e;
+  color: #11823b;
 }
 
 .custom-navbar .navbar-toggle {
@@ -252,7 +251,7 @@ footer {
 }
 
 .custom-navbar .navbar-toggle .icon-bar {
-  background: #29ca8e;
+  background: #11823b;
   border-color: transparent;
 }
 
@@ -350,13 +349,13 @@ footer {
 #feature .nav-tabs>li.active>a:hover {
   background: transparent;
   color: #202020;
-  border-bottom: 3px solid #29ca8e;
+  border-bottom: 3px solid #11823b;
 }
 
 #feature .nav>li>a:focus, 
 #feature .nav>li>a:hover {
   background: transparent;
-  border-bottom: 3px solid #29ca8e;
+  border-bottom: 3px solid #11823b;
   color: #202020;
 }
 

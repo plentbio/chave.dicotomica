@@ -1,0 +1,605 @@
+1
+Folhas opostas ou verticiladas
+2
+Folhas alternas ou plantas afilas
+34
+
+2
+Ovário ínfero
+3
+Ovário súpero
+7
+
+3
+Ovário unilocular
+4
+Ovário 2-5-locular
+6
+
+4
+Flores dispostas em inflorescências do tipo capítulo
+Asteraceae (Compositae)
+Flores solitárias ou dispostas em outros tipos de inflorescência
+5
+
+5
+Plantas autótrofas; ovário com um único óvulo
+Chloranthaceae
+Plantas hemiparasitas; ovário com dois a muitos óvulos
+Santalaceae
+
+6
+Plantas com estípulas interpeciolares
+Rubiaceae
+Plantas sem estípulas interpeciolares
+Haloragaceae
+
+7
+Ervas aquáticas; inteiramente submersas; folhas verticiladas, multipartidas
+Ceratophyllaceae
+Plantas não aquáticas submersas; folhas opostas, não multipartidas
+8
+
+8
+Estames em número igual ou maior ao das sépalas
+9
+Estames em número menor do que as sépalas
+31
+
+9
+Folhas simples
+10
+Folhas compostas
+29
+
+10
+Flor com único pistilo
+11
+Flor com dois ou mais pistilos
+27
+
+11
+Ovário unilocular (às vezes por aborto)
+12
+Ovário bi-plurilocular
+22
+
+12
+Gineceu unicarpelar (ou com dois carpelos, mas um deles extremamente reduzido)
+13
+Gineceu bi-pluricarpelar
+16
+
+13
+Óvulo com placentação pêndula ou axial
+Monimiaceae
+Óvulo com placentação ereta
+14
+
+14
+Plantas com estípulas
+Urticaceae
+Plantas sem estípulas
+15
+
+15
+Cálice dialissépalo
+Calophyllaceae
+Cálice gamossépalo
+Nyctaginaceae
+
+16
+Ovário com dois a muitos óvulos
+Rubiaceae
+Ovário com um único óvulo
+17
+
+17
+Óvulo com placentação ereta
+18
+Óvulo com placentação pêndula
+19
+
+18
+Ervas
+Amaranthaceae
+Arbustos ou árvores
+Calophyllaceae
+
+19
+Folhas palmilobadas
+20
+Folhas não lobadas
+21
+
+20
+Ervas; flores dispostas em glomérulos, espigas ou panículas
+Cannabaceae
+Árvores; flores dispostas em sicônios
+Moraceae
+
+21
+Plantas com látex
+Moraceae
+Plantas sem látex
+Thymelaeaceae
+
+22
+Lóculos com um único óvulo
+23
+Lóculos com dois a muitos óvulos
+25
+
+23
+Óvulos com placentação ereta ou pêndula
+Moraceae
+Óvulos com placentação parietal ou axial
+24
+
+24
+Gineceu tricarpelar, raramente bicarpelar; carpelos com um único óvulo
+Euphorbiaceae
+Gineceu bicarpelar; óvulos 2 por carpelo
+Bataceae
+
+25
+Ovário trilocular
+Buxaceae
+Ovário bilocular ou tetralocular pelo desenvolvimento de falso septo
+26
+
+26
+Folhas compostas ou simples e palminérveas; fruto samarídeo
+Sapindaceae
+Folhas simples, enérveas ou uninérveas; fruto drupa
+Bataceae
+
+27
+Óvulos com placentação ereta
+Siparunaceae
+Óvulos com placentação pêndula
+28
+
+28
+Plantas geralmente arbustivas ou arbóreas; frutículos carnosos
+Monimiaceae
+Lianas ou ervas; frutículos secos, plumosos
+Ranunculaceae
+
+29
+Flor com dois ou mais pistilos
+Ranunculaceae
+Flor com único pistilo
+30
+
+30
+Ervas
+Cannabaceae
+Arbustos ou árvores
+Sapindaceae
+
+31
+Folhas compostas
+Oleaceae
+Folhas simples
+32
+
+32
+Flor com dois ou mais pistilos
+Siparunaceae
+Flor com um único pistilo
+33
+
+33
+Plantas com látex; folhas opostas, não escamiformes
+Moraceae
+Plantas sem látex; folhas verticiladas, escamiformes
+Casuarinaceae
+
+34
+Plantas aclorofiladas, holoparasitas ou saprófitas
+35
+Plantas clorofiladas, autótrofas, hemiparasitas ou carnívoras
+38
+
+35
+Flores dispostas em inflorescências capituliformes ou estrobiliformes
+Balanophoraceae
+Flores isoladas ou dispostas em racemos
+36
+
+36
+Plantas endoparasitas (apenas as flores ficam expostas)
+Apodanthaceae
+Plantas saprófitas
+37
+
+37
+Flores solitárias
+Aristolochiaceae
+Flores dispostas em racemos
+Triuridaceae
+
+38
+Ovário ínfero
+39
+Ovário súpero
+52
+
+39
+Gineceu unicarpelar
+Hernandiaceae
+Gineceu bi-pluricarpelar
+40
+
+40
+Plantas hemiparasitas
+Santalaceae
+Plantas não hemiparasitas
+41
+
+41
+Ovário unilocular
+42
+Ovário bi-plurilocular, ao menos na região mediana do ovário
+49
+
+42
+Ovário com um único óvulo
+43
+Ovário bi-pluriovulado
+47
+
+43
+Flores dispostas em capítulos
+Asteraceae (Compositae)
+Flores dispostas em inflorescências de outros tipos
+44
+
+44
+Folhas compostas
+Juglandaceae
+Folhas simples
+45
+
+45
+Plantas com látex
+Moraceae
+Plantas sem látex
+46
+
+46
+Ervas
+Gunneraceae
+Plantas lenhosas
+Moraceae
+
+47
+Sépalas numerosas; folhas geralmente transformadas em espinhos
+Cactaceae
+Sépalas 2-9; folhas não transformadas em espinhos
+48
+
+48
+Óvulos com placentação pêndula
+Combretaceae
+Óvulos com placentação parietal
+Hydrocharitaceae
+
+49
+Lóculos do ovário com dois a muitos óvulos
+50
+Lóculos do ovário com um único óvulo
+51
+
+50
+Plantas herbáceas
+Begoniaceae
+Plantas lenhosas
+Fagaceae
+
+51
+Ervas
+Haloragaceae
+Arbustos, árvores ou lianas
+Griseliniaceae
+
+52
+Flor com dois ou mais pistilos
+53
+Flor com um único pistilo
+55
+
+53
+Sépalas 6-numerosas
+Menispermaceae
+Sépalas 1-5
+54
+
+54
+Cálice pentâmero
+Phytolaccaceae
+Cálice 1-4-mero
+Potamogetonaceae
+
+55
+Gineceu bi-pluricarpelar
+56
+Gineceu unicarpelar (ou bicarpelar com um dos carpelos extremamente reduzido
+93
+
+56
+Ovário unilocular ou com um carpelo fértil e os demais estéreis
+57
+Ovário bi-plurilocular
+75
+
+57
+Inflorescência do tipo espádice
+58
+Inflorescência de outros tipos
+59
+
+58
+Ovário pluriovulado
+Cyclanthaceae
+Ovário com um único óvulo
+Arecaceae (Palmae)
+
+59
+Ovário com um único óvulo
+60
+Ovário bi-pluriovulado
+73
+
+60
+Folhas com bainha
+61
+Folhas sem bainha
+62
+
+61
+Folhas alternas dísticas; flores dispostas em espigas; ovulo com placentação pêndula
+Typhaceae
+Folhas alternas espiraladas; flores dispostas em espiguetas; ovulo com placentação ereta
+Cyperaceae
+
+62
+Óvulos com placentação ereta
+63
+Óvulos com placentação pêndula ou parietal
+67
+
+63
+Folhas com ócrea
+Polygonaceae
+Folhas sem ócrea
+64
+
+64
+Estames em número maior do que as sépalas
+Achatocarpaceae
+Estames em número igual ou menor do que as sépalas
+65
+
+65
+Estípulas presentes
+Urticaceae
+Estípulas ausentes
+66
+
+66
+Flores escariosas
+Amaranthaceae
+Flores não escariosas
+Opiliaceae (na realidade diclamídeas)
+
+67
+Flores períginas
+Thymelaeaceae
+Flores hipóginas
+68
+
+68
+Plantas com látex
+Moraceae
+Plantas sem látex
+69
+
+69
+Estames em número maior que o das sépalas
+Ulmaceae
+Estames em número igual ou inferior ao das sépalas
+70
+
+70
+Um dos estigmas muito menor do que o outro
+Ulmaceae
+Estigmas do mesmo tamanho
+71
+
+71
+Flores pentâmeras
+Cannabaceae
+Flores tetrâmeras
+72
+
+72
+Frutos isolados
+Cannabaceae
+Frutos formando um sincarpo
+Moraceae
+
+73
+Placentação ereta ou pêndula
+Amaranthaceae
+Placentação central-livre ou parietal
+74
+
+74
+Flores com um estame
+Lacistemataceae
+Flores com mais de um estame
+Salicaceae
+
+75
+Inflorescência do tipo espádice
+76
+Inflorescência de outros tipos
+77
+
+76
+Ervas; espádice simples
+Araceae
+Palmeiras (geralmente lenhosas); espádice composto
+Arecaceae (Palmae)
+
+77
+Folhas com bainha
+Typhaceae
+Folhas sem bainha
+78
+
+78
+Lóculos do ovário com um único óvulo
+79
+Lóculos do ovário com mais de um óvulo
+83
+
+79
+Placentação ereta
+80
+Placentação pêndula ou axial
+81
+
+80
+Ovário penta-plurilocular
+Phytolaccaceae
+Ovário bi-trilocular
+Rhamnaceae
+
+81
+Inflorescência do tipo sicônio
+Moraceae
+Inflorescência de outros tipos
+82
+
+82
+Gineceu bicarpelar; flores dispostas em amentilhos; óvulos com placentação pêndula
+Betulaceae
+Gineceu (2)3(-pluri)-carpelar; flores não dispostas em amentilhos; óvulos com placentação axial
+Euphorbiaceae
+
+83
+Lóculos do ovário tri-pluriovulados
+84
+Lóculos do ovário biovulados
+85
+
+84
+Plantas carnívoras, com folhas transformadas em "jarras" onde os insetos são capturados
+Nepenthaceae
+Plantas não carnívoras
+Malvaceae
+
+85
+Plantas com estípulas
+86
+Plantas sem estípulas
+90
+
+86
+Folhas compostas
+Picrodendraceae
+Folhas simples
+87
+
+87
+Ervas
+Phyllanthaceae
+Plantas lenhosas
+88
+
+88
+Fruto carnoso
+Putranjivaceae
+Fruto seco
+89
+
+89
+Sementes com carúncula
+Picrodendraceae
+Sementes sem carúncula
+Phyllanthaceae
+
+90
+Folhas simples ou compostas unifolioladas
+91
+Folhas compostas com mais de um folíolo
+92
+
+91
+Fruto baga
+Picramniaceae
+Fruto seco, alado
+Sapindaceae
+
+92
+Estames 3-6
+Picramniaceae
+Estames 7-8
+Sapindaceae
+
+93
+Plantas lenhosas
+94
+Plantas não lenhosas
+99
+
+94
+Flores 4-5-meras
+95
+Flores trímeras
+97
+
+95
+Plantas com látex
+Moraceae
+Plantas sem látex
+96
+
+96
+Plantas com estípulas
+Urticaceae
+Plantas sem estípulas
+Nyctaginaceae
+
+97
+Filetes unidos entre si
+Myristicaceae
+Filetes livres entre si
+98
+
+98
+Plantas com estípulas
+Urticaceae
+Plantas sem estípulas
+Nyctaginaceae
+
+99
+Óvulo com placentação parietal ou pêndula
+Potamogetonaceae
+Óvulo com placentação ereta
+100
+
+100
+Plantas aquáticas submersas
+Potamogetonaceae
+Plantas terrestres ou paludosas
+101
+
+101
+Folhas uninérveas ou paralelinérveas; inflorescência racemosa
+Juncaginaceae
+Folhas peninérveas ou palminérveas; inflorescência cimosa
+Urticaceae

@@ -1,0 +1,905 @@
+1
+Flores dispostas em capítulos
+2
+Flores não dispostas em capítulos
+4
+
+2
+Ovário ínfero
+Asteraceae (Compositae)
+Ovário súpero
+3
+
+3
+Flores esbranquiçadas; lóculos do ovário com um único óvulo
+Eriocaulaceae
+Flores amarelas; lóculos do ovário pluriovulados
+Rapateaceae
+
+4
+Flores homoclamídeas
+5
+Flores heteroclamídeas
+62
+
+5
+Perianto zigomorfo
+6
+Perianto actinomorfo
+18
+
+6
+Estame 1, sem estaminódios
+Orchidaceae
+Estames 2-numerosos ou 1 mais dois estaminódios
+7
+
+7
+Estames 1-3
+8
+Estames 5-numerosos
+9
+
+8
+Ovário súpero
+Pontederiaceae
+Ovário ínfero
+Iridaceae
+
+9
+Folhas peniparalelinérveas
+10
+Folhas enérveas, uninérveas ou paralelinérveas, às vezes extremamente reduzidas
+11
+
+10
+Folhas alternas espiraladas; fruto baga
+Musaceae
+Folhas alternas dísticas; fruto drupa.
+Heliconiaceae
+
+11
+Ovário súpero
+12
+Ovário ínfero
+15
+
+12
+Plantas aquáticas flutuantes ou de locais alagáveis, sem órgão subterrâneos de reserva.
+Pontederiaceae
+12. Plantas terrestres, de locais não alagáveis; com rizomas
+13
+
+13
+Flores dispostas em umbelas
+Amaryllidaceae
+Flores dispostas em outros tipos de inflorescência
+14
+
+14
+Plantas não fibrosas
+Asphodelaceae
+Plantas fibrosas
+Asparagaceae
+
+15
+Caule densamente recoberto por raízes adventícias e por restos das bainhas foliares; flores solitárias
+Velloziaceae
+Caule não densamente recoberto por raízes adventícias e por restos das bainhas foliares; flores solitárias ou dispostas em diversos tipos de inflorescência
+16
+
+16
+Plantas lenhosas
+Asparagaceae
+Plantas herbáceas
+17
+
+17
+Plantas com bulbo
+Amaryllidaceae
+Plantas sem sistemas de reserva ou com outros tipos
+Alstroemeriaceae
+
+18
+Ervas geralmente aclorofiladas, saprófitas ou holoparasitas
+19
+Plantas autótrofas, clorofiladas
+21
+
+19
+Plantas holoparasitas; anteras valvares
+Lauraceae
+Plantas saprófitas; anteras rimosas ou com deiscência transversal
+20
+
+20
+Ovário súpero
+Triuridaceae
+Ovário ínfero
+Burmanniaceae
+
+21
+Ovário súpero
+22
+Ovário ínfero
+54
+
+22
+Plantas aquáticas submersas ou flutuantes
+23
+Plantas terrestres ou paludosa
+24
+
+23
+Folhas multipartidas
+Cabombaceae
+Folhas não multipartidas
+Pontederiaceae
+
+24
+Plantas afilas ou com folhas reduzidas a escamas
+Asparagaceae
+Plantas com folhas não reduzidas a escamas
+25
+
+25
+Plantas com ócrea
+Polygonaceae
+Plantas sem ócrea
+26
+
+26
+Folhas opostas ou verticiladas
+27
+Folhas alternas ou apenas uma ou duas
+29
+
+27
+Anteras valvares
+Lauraceae
+Anteras rimosas
+28
+
+28
+Arbustos; folhas peninérveas
+Buxaceae
+Ervas; folhas paralelinérveas
+Asparagaceae
+
+29
+Folhas com gavinha no ápice
+Colchicaceae
+Folhas sem gavinha
+30
+
+30
+Folhas alternas dísticas
+31
+Folhas alternas espiraladas ou apenas uma ou duas na planta
+37
+
+31
+Subarbustos, arbustos ou árvores; folhas peninérveas
+32
+Ervas ou plantas arborescentes; folhas paralelinérveas ou palminérveas
+33
+
+32
+Gineceu gamocarpelar
+Salicaceae
+Gineceu dialicarpelar
+Annonaceae
+
+33
+Flores não vistosas
+Juncaceae
+Flores vistosas
+34
+
+34
+Plantas bulbosas
+Amaryllidaceae
+Plantas rizomatosas
+35
+
+35
+Lóculos do ovário biovulados
+Asparagaceae
+Óvulos numerosos por lóculo
+36
+
+36
+Estames dispostos de forma mais ou menos paralela, conferindo à flor como um todo simetria zigomorfa
+Asphodelaceae
+Estames dispostos de forma radial
+Haemodoraceae
+
+37
+Plantas lenhosas
+38
+Plantas não lenhosas
+40
+
+38
+Anteras valvares
+Lauraceae
+Anteras rimosas
+39
+
+39
+Plantas não fibrosas, folhas suculentas
+Asphodelaceae
+Plantas geralmente fibrosas, folhas não suculentas
+Asparagaceae
+
+40
+Flores sésseis
+41
+Flores pediceladas
+42
+
+41
+Escapo com seção triangular
+Thurniaceae
+Escapo cilíndrico ou achatado
+Juncaceae
+
+42
+Gineceu unicarpelar ou dialicarpelar ou com carpelos unidos apenas na base
+Juncaginaceae
+Gineceu 3-4-carpelar, com carpelos unidos ao menos pela maior parte da extensão do ovário
+43
+
+43
+Lianas ou plantas prostradas, terrestres
+44
+Ervas terrestres eretas ou aquáticas flutuantes
+45
+
+44
+Flores dispostas em umbelas; fruto baga
+Smilacaceae
+Flores dispostas em racemos; fruto seco
+Asparagaceae
+
+45
+Flores não vistosas
+Juncaceae
+Flores vistosas
+46
+
+46
+Gineceu tetracarpelar
+Asparagaceae
+Gineceu tricarpelar
+47
+
+47
+Plantas não bulbosas
+48
+Plantas bulbosas
+52
+
+48
+Plantas fibrosas
+Asparagaceae
+Plantas não fibrosas
+49
+
+49
+Folhas suculentas
+Asphodelaceae
+Folhas não suculentas
+50
+
+50
+Flores dispostas em umbelas
+Amaryllidaceae
+Flores dispostas em racemos, cimeiras ou racemos de cimeiras
+51
+
+51
+Cálice e corola unidos, formando um tubo com mais de 1cm na base da flor
+Asphodelaceae
+Cálice e corola livres entre si ou unidos apenas muito próximo da base
+Asparagaceae
+
+52
+Flores geralmente solitárias; folhas dispos tas ao longo do caule, sem a formação de um escapo
+Liliaceae
+Flores dispostas em umbelas ou racemos na extremidade de um escapo; folhas dispostas em rosetas basais
+53
+
+53
+Flores dispostas em umbelas
+Amaryllidaceae
+Flores dispostas em racemos
+Asparagaceae
+
+54
+Folhas alternas dísticas
+55
+Plantas com uma única folha ou folhas alternas espiraladas
+57
+
+55
+Estames 5-6
+Amaryllidaceae
+Estames 1-3
+56
+
+56
+Estames 3, alternados com as pétalas
+Iridaceae
+Estames 1-3, opostos às pétalas
+Haemodoraceae
+
+57
+Plantas geralmente volúveis e dioicas; folhas palminérveas
+Dioscoreaceae
+Plantas geralmente não volúveis e monoicas; folhas uninérveas, enérveas ou paralelinérveas
+58
+
+58
+Caule densamente recoberto por raízes adventícias e por restos das bainhas foliares; flores solitárias
+Velloziaceae
+Caule não densamente recoberto por raízes adventícias e por restos das bainhas foliares; flores solitárias ou dispostas em diversos tipos de inflorescência
+59
+
+59
+Folhas com ápice pungente e com margem geralmente espinescente
+Asparagaceae
+Folhas com ápice não pungente e com margem não espinescente
+60
+
+60
+Plantas com bulbos
+Amaryllidaceae
+Plantas com cormos ou rizomas ou sem sistemas subterrâneos de reserva
+61
+
+61
+Plantas com folhas reduzidas a escamas
+Burmanniaceae
+Plantas com folhas normais
+Hypoxidaceae
+
+62
+Ovário ínfero
+63
+Ovário súpero
+89
+
+63
+Flores actinomorfas
+64
+Flores zigomorfas ou assimétricas
+78
+
+64
+Folhas alternas ou plantas sem folhas
+65
+Folhas opostas ou verticiladas
+74
+
+65
+Folhas paralelinérveas, uninérveas ou ausentes
+66
+Folhas peninérveas ou palminérveas
+70
+
+66
+Ovário unilocular
+67
+Ovário trilocular
+69
+
+67
+Ervas aquáticas, não saprófitas
+Hydrocharitaceae
+Ervas terrestres, saprófitas
+68
+
+68
+Estames 3
+Burmanniaceae
+Estames 6
+Thismiaceae
+
+69
+Estames 3
+Iridaceae
+Estames 5-6
+Bromeliaceae
+
+70
+Ovário unilocular
+71
+Ovário bi-plurilocular
+72
+
+71
+Pétalas 2
+Gunneraceae
+Pétalas 3
+Hydrocharitaceae
+
+72
+Plantas com estípulas
+Begoniaceae
+Plantas sem estípulas
+73
+
+73
+Arbustos ou árvores
+Symplocaceae
+Ervas
+Haloragaceae
+
+74
+Corola gamopétala
+75
+Corola dialipétala
+76
+
+75
+Plantas com estípulas interpeciolares; anteras livres entre si
+Rubiaceae
+Plantas sem estípulas; anteras unidas entre si
+Asteraceae (Compositae)
+
+76
+Plantas terrestres ou epífitas
+Melastomataceae
+Plantas aquáticas
+77
+
+77
+Ovário unilocular
+Hydrocharitaceae
+Ovário tetralocular
+Haloragaceae
+
+78
+Flores assimétricas, graças à presença de um estame com uma das tecas petaloide
+79
+Flores zigomortas
+80
+
+79
+Ovário com lóculos pluriovulados
+Cannaceae
+Lóculos do ovário com um único óvulo
+Marantaceae
+
+80
+Androceu unido ao gineceu, formando uma coluna
+Orchidaceae
+Androceu não unido ao gineceu
+81
+
+81
+Estames 1-3
+82
+Estames 5-6
+85
+
+82
+Folhas opostas ou verticiladas
+Vochysiaceae
+Folhas alternas
+83
+
+83
+Estames 3
+Iridaceae
+Estame 1
+84
+
+84
+Folhas alternas dísticas
+Zingiberaceae
+Folhas alternas espiraladas
+Costaceae
+
+85
+Plantas saprófitas, sem folhas
+Thismiaceae
+Plantas autótrofas, com folhas
+86
+
+86
+Folhas alternas dísticas
+87
+Folhas alternas espíraladas
+88
+
+87
+Lóculos do ovário com um único óvulo
+Heliconiaceae
+Ovário com lóculos pluriovulados
+Strelitziaceae
+
+88
+Bainhas foliares formando um pseudocaule; sépalas unidas a duas pétalas, uma das pétalas livre
+Musaceae
+Bainhas foliares não formando um pseudocaule; sépalas e pétalas livres entre si ou todas unidas
+Bromeliaceae
+
+89
+Plantas aquáticas submersas por todo o ciclo de vida ou flutuantes
+90
+Plantas terrestres, epífitas ou paludosas
+93
+
+90
+Folhas multipartidas; flores solitárias
+Cabombaceae
+Folhas não multipartidas; flores dispostas em inflorescências diversas
+91
+
+91
+Gineceu dialicarpelar
+Alismataceae
+Gineceu gamocarpelar
+92
+
+92
+Folhas estreitas, uninérveas
+Mayacaceae
+Folhas largas, não uninérveas
+Pontederiaceae
+
+93
+Folhas alternas ou rosuladas
+94
+Folhas opostas ou verticiladas
+140
+
+94
+Palmeiras; flores dispostas em espádice composto
+Arecaceae (Palmae)
+Ervas, arbustos ou árvores; flores dispostas em outros tipos de inflorescência
+95
+
+95
+Folhas ou folíolos paralelinérveos ou uninérveos
+96
+Folhas ou folíolos palminérveos ou peninérveos
+105
+
+96
+Folhas alternas dísticas
+97
+Folhas alternas espiraladas
+99
+
+97
+Gineceu dialicarpelar
+Alismataceae
+Gineceu gamocarpelar
+98
+
+98
+Inflorescência capituliforme, subtendida por 1 ou várias brácteas
+Rapateaceae
+Flores dispostas em densa espiga, não subtendida por brácteas
+Xyridaceae
+
+99
+Estames 1-3
+100
+Estames 4-numerosos
+102
+
+100
+Flores dispostas em espigas
+Xyridaceae
+Flores solitárias ou dispostas em umbelas
+101
+
+101
+Folhas uninérveas
+Mayacacea
+Folhas paralelinérveas
+Commelinaceae
+
+102
+Ovário com apenas um lóculo fértil
+Pontederiaceae
+Ovário 2-3-locular, com todos os lóculos férteis
+103
+
+103
+Estames 8
+Polygalaceae
+Estames 3-6
+104
+
+104
+Folhas geralmente não formando rosetas; corola dialipétala
+Commelinaceae
+Folhas formando rosetas; corola gamopétala
+Bromeliaceae
+
+105
+Anteras valvares
+Lauraceae
+Anteras poricidas, rimosas ou com fenda transversal
+106
+
+106
+Flor com dois ou mais pistilos, às vezes unidos apenas na base
+107
+Flor com um único pistilo
+113
+
+107
+Folhas palmilobadas
+Platanaceae
+Folhas não palmilobadas
+108
+
+108
+Folhas alternas dísticas
+109
+Folhas alternas espiraladas
+110
+
+109
+Plantas lenhosas
+Annonaceae
+Plantas herbáceas
+Alismataceae
+
+110
+Folhas com pontuações translúcidas, às vezes apenas na margem do limbo foliar
+Rutaceae
+Folhas sem pontuações translúcidas
+111
+
+111
+Pétala única; flores zigomorfas
+Fabaceae (Leguminosae)
+Pétalas 3; flores actinomorfas
+112
+
+112
+Folhas peninérveas
+Dilleniaceae
+Folhas palminérveas
+Alismataceae
+
+113
+Plantas com estípulas, às vezes transformadas em ócrea
+114
+Plantas sem estípulas
+119
+
+114
+Estipulas transformadas em ócrea
+Polygonaceae
+Estípulas não transformadas em ócrea
+115
+
+115
+Ovário unilocular
+116
+Ovário bi-plurilocular
+117
+
+116
+Folhas simples
+Passifloraceae
+Folhas compostas
+Fabaceae (Leguminosae)
+
+117
+Anteras poricidas
+Ochnaceae
+Anteras rimosas
+118
+
+118
+Flores actinomorfas
+Salicaceae
+Flores zigomorfas
+Euphroniaceae
+
+119
+Folhas compostas
+120
+Folhas simples ou compostas unifolioladas
+127
+
+120
+Folhas com pontuações translúcidas
+121
+Folhas sem pontuações translúcidas
+122
+
+121
+Estames unidos entre si
+Meliaceae
+Estames livres entre si
+Rutaceae
+
+122
+Folhas aromáticas
+Burseraceae
+Folhas não aromáticas
+123
+
+123
+Estames unidos entre si
+Meliaceae
+Estames livres entre si
+124
+
+124
+Estames 3-5
+Picramniaceae
+Estames 6-10
+125
+
+125
+Folhas bipinadas
+Sapindaceae
+Folhas trifolioladas ou pinadas
+126
+
+126
+Estames 7-8
+Sapindaceae
+Estames 10
+Burseraceae
+
+127
+Ovário unilocular ou com apenas um lóculo fértil
+128
+Ovário 2-plurilocular
+131
+
+128
+Ovário tri-pluriovulado
+Passifloraceae
+Ovário uni-biovulado
+129
+
+129
+Ovário biovulado
+Dilleniaceae
+Ovário com um único óvulo
+130
+
+130
+Flores zigomorfas
+Polygalaceae
+Flores actinomorfas
+Menispermaceae
+
+131
+Corola gamopétala
+132
+Corola dialipétala
+135
+
+132
+Plantas herbáceas
+Plantaginaceae
+Plantas lenhosas
+133
+
+133
+Estames unidos entre si
+Meliaceae
+Estames livres entre si
+134
+
+134
+Lóculos do ovário com um único óvulo; óvulos com placentação ereta
+Annonaceae
+Lóculos do ovário biovulados; óvulos com placentação pêndula
+Ebenaceae
+
+135
+Flores zigomorfas
+Polygalaceae
+Flores actinomorfas
+136
+
+136
+Estames unidos entre si
+Meliaceae
+Estames livres entre si
+137
+
+137
+Folhas com pontuações translúcidas, às vezes apenas na margem do limbo foliar
+Rutaceae
+Folhas sem pontuações translúcidas
+138
+
+138
+Estames numerosos
+Dilleniaceae
+Estames 3-10
+139
+
+139
+Estames 3-5
+Picramniaceae
+Estames 6-10
+Burseraceae
+
+140
+Anteras valvares
+Lauraceae
+Anteras rimosas ou poricidas
+141
+
+141
+Flores zigomorfas
+142
+Flores actinomorfas
+143
+
+142
+Estame 1-5
+Vochysiaceae
+Estames 6-muitos
+Polygalaceae
+
+143
+Flores unissexuadas
+144
+Flores bissexuadas
+145
+
+144
+Plantas herbáceas
+Plantaginaceae
+Plantas lenhosas
+Calophyllaceae
+
+145
+Ovário unilocular
+146
+Ovário bi-plurilocular
+148
+
+146
+Plantas lenhosas
+Calophyllaceae
+Ervas
+147
+
+147
+Corola dialipétala
+Caryophyllaceae
+Corola com as pétalas unidas na base
+Primulaceae
+
+148
+Corola gamopétala
+Plantaginaceae
+Corola dialipétala
+149
+
+149
+Folhas curvinérveas; anteras falciformes
+Melastomataceae
+Folhas palminérveas ou penínérveas; anteras não falciformes
+150
+
+150
+Plantas herbáceas
+Elatinaceae
+Plantas lenhosas
+151
+
+151
+Plantas com látex
+Calophyllaceae
+Plantas sem látex
+Celastraceae

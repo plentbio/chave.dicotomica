@@ -68,8 +68,7 @@ function button(option) {
     // When pressing a button, changes the crawler to the proper line, adds that line to the route and updates HTML to show nwe values. If a result is reached, shows that group's info.
     // Checks if pathA is a path or a result. If it is a result, show result information; if it is a path, continue iterating.
     document.getElementById("resultBox").style.display = "none";
-
-    
+        
     if (data[crawler][`path${option}`] in chaves) {
 
         changeSelect(data[crawler][`path${option}`]);
@@ -96,8 +95,8 @@ function result(option) {
         
     // Updates HTML values with title, wikipedia link and image
     document.getElementById(`result`).innerHTML = data[crawler][`path${option}`];
-    document.getElementById(`link`).href= "https://pt.wikipedia.org/wiki/" + data[crawler][`path${option}`];
-    imageQuery(data[crawler][`path${option}`], "resultImg");
+    document.getElementById(`link`).href= "https://pt.wikipedia.org/wiki/" + splitBeforeSpace(data[crawler][`path${option}`]);
+    imageQuery(splitBeforeSpace(data[crawler][`path${option}`]), "resultImg");
 };
     
 function back() {
@@ -147,5 +146,15 @@ async function imageQuery(query){
         }
 
         document.getElementById("resultImg").src = image_url;
+    };
+};
+
+function splitBeforeSpace(str) {
+
+    if (str.includes(" ")) {
+        var subStr = str.substr(0, str.indexOf(' '));
+        return subStr;
+    } else {
+        return str;
     };
 };
