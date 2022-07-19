@@ -589,7 +589,7 @@ const chaveC = `[
 },
 {
 "index": 84,
-"propA": "Plantas carnívoras, com folhas transformadas em "jarras" onde os insetos são capturados",
+"propA": "Plantas carnívoras, com folhas transformadas em 'jarras' onde os insetos são capturados",
 "pathA": "Nepenthaceae",
 "propB": "Plantas não carnívoras",
 "pathB": "Malvaceae"
