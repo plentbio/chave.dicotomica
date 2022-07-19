@@ -5,7 +5,10 @@ var data = JSON.parse(chave1);
 var chaves = {
     "Chave1": chave1,
     "Chave A": chaveA,
-    "Chave B": chaveB
+    "Chave B": chaveB,
+    "Chave C": chaveC,
+    "Chave D": chaveD,
+    "Chave E": chaveE
 }
 
 var route = [];
