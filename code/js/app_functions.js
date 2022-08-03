@@ -8,7 +8,10 @@ var chaves = {
     "Chave B": chaveB,
     "Chave C": chaveC,
     "Chave D": chaveD,
-    "Chave E": chaveE
+    "Chave E": chaveE,
+    "Chave F": chaveF,
+    "Chave G": chaveG,
+    "Chave H": chaveH
 }
 
 var route = [];

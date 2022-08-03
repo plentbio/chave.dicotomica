@@ -23,6 +23,7 @@ def parseFile(file_read):
     with io.open("".join(["parser_input/", file_read]), 'r', encoding='utf-8') as f:
         for line in f.readlines():
             line = line.rstrip()
+            line = line.replace('"', "'")
             if i % 6 == 1:
                 new_line = '"index": ' + line + ','
                 lines.append('{')

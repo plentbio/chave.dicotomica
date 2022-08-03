@@ -1,0 +1,521 @@
+1
+Corola gamopétala
+2
+Corola dialipétala ou formando uma caliptra
+34
+
+2
+Folhas opostas ou verticiladas
+3
+Folhas alternas
+13
+
+3
+Plantas com estípulas interpeciolares
+Rubiaceae
+Plantas sem estípulas interpeciolares
+4
+
+4
+Carpelos 3-10
+5
+Carpelos 2
+9
+
+5
+Plantas hemiparasitas, com haustórios
+Loranthaceae
+Plantas não hemiparasitas
+6
+
+6
+Estames 1-5
+7
+Estames 6-numerosos
+Ericaceae
+
+7
+Plantas com látex
+Campanulaceae
+Plantas sem látex
+8
+
+8
+Corola rotácea, actinomorfa
+Adoxaceae
+Corola tubulosa, geralmente zigomorfa
+Caprifoliaceae
+
+9
+Flores dispostas em capítulos
+10
+Flores dispostas em outros tipos de inflorescências
+11
+
+10
+Óvulo com placentação ereta
+Asteraceae (Compositae)
+Óvulo com placentação pêndula
+Caprifoliaceae
+
+11
+Ovário unilocular
+Gesneriaceae
+Ovário 2-5-locular
+12
+
+12
+Plantas com látex
+Campanulaceae
+Plantas sem látex
+Caprifoliaceae
+
+13
+Ovário unilocular
+14
+Ovário bi-plurilocular ou dialicarpelar
+18
+
+14
+Plantas hemiparasitas
+Loranthaceae
+Plantas não hemiparasitas
+15
+
+15
+Flores dispostas em capítulos
+16
+Flores dispostas em outros tipos de inflorescências
+17
+
+16
+Óvulo com placentação ereta
+Asteraceae (Compositae)
+Óvulo com placentação pêndula
+Calyceraceae
+
+17
+Óvulos com placentação parietal, pêndula ou ereta
+Cucurbitaceae
+Óvulos com placentação central-livre
+Primulaceae
+
+18
+Corola com prefloração valvar
+19
+Corola com prefloração imbricada ou convoluta
+23
+
+19
+Lóculos do ovário com um único óvulo
+20
+Lóculos do ovário com dois a muitos óvulos
+22
+
+20
+Folhas compostas
+Araliaceae
+Folhas simples
+21
+
+21
+Flores actinomorfas
+Schoepfiaceae
+Flores zigomorfas
+Goodeniaceae
+
+22
+Flores unissexuadas
+Cucurbitaceae
+Flores bissexuadas
+Campanulaceae
+
+23
+Plantas com látex
+24
+Plantas sem látex
+26
+
+24
+Flores zigomorfas
+Campanulaceae
+Flores actinomorfas
+25
+
+25
+Plantas herbáceas
+Campanulaceae
+Plantas lenhosas
+Apocynaceae
+
+26
+Flores zigomorfas
+Ericaceae
+Flores actinomorfas
+27
+
+27
+Lóculos do ovário 1-4-ovulados
+28
+Lóculos do ovário pluriovulados
+31
+
+28
+Trepadeiras ou plantas rastejantes
+Cucurbitaceae
+Arbustos ou árvores
+29
+
+29
+Folhas com margem serreada
+Symplocaceae
+Folhas com margem inteira
+30
+
+30
+Corola com corona 8-lobada
+Ebenaceae
+Corola sem corona
+Symplocaceae
+
+31
+Estames 30-numerosos
+Lecythidaceae
+Estames 3-14
+32
+
+32
+Estames 8-14
+Ericaceae
+Estames 3-5
+33
+
+33
+Plantas eretas; flores bissexuadas
+Sphenocleaceae
+Trepadeiras ou plantas rastejantes; flores unissexuadas
+Cucurbitaceae
+
+34
+Pétalas numerosas
+35
+Pétalas 4-9 ou formando uma caliptra
+38
+
+35
+Plantas aquáticas ou paludosas, não suculentas
+36
+Plantas terrestres ou epifítitas, suculentas
+37
+
+36
+Folhas flutuantes
+Nymphaeaceae
+Folhas não flutuantes
+Nelumbonaceae
+
+37
+Estilete único; folhas geralmente transformadas em espinhos
+Cactaceae (na realidade monoclamídeas)
+Estiletes 2-muitos; folhas não transformadas em espinhos
+Aizoaceae (na realidade monoclamídeas)
+
+38
+Folhas opostas ou verticiladas
+39
+Folhas alternas
+58
+
+39
+Plantas hemiparasitas
+Loranthaceae
+Plantas não hemiparasitas
+40
+
+40
+Lóculos do ovário com um único óvulo
+41
+Lóculos do ovário com dois a muitos óvulos
+44
+
+41
+Óvulo com placentação ereta
+Rhamnaceae
+Óvulo com placentação pêndula
+42
+
+42
+Ervas
+Haloragaceae
+Plantas lenhosas
+43
+
+43
+Estames em número igual ao das pétalas
+Nyssaceae
+Estames em número duplo ao das pétalas
+Rhizophoraceae
+
+44
+Ovário unilocular
+45
+Ovário bi-plurilocular
+47
+
+45
+Óvulos com placentação pêndula
+Combretaceae
+Óvulos com placentação parietal, ereta ou central-livre
+46
+
+46
+Óvulos com placentação parietal
+Loasaceae
+Óvulos com placentação ereta ou central-livre
+Melastomataceae
+
+47
+Estames em número igual ou inferior ao das pétalas
+Rhizophoraceae
+Estames em número duplo ao das pétalas ou mais numerosos
+48
+
+48
+Folhas geralmente curvinérveas; anteras falciformes
+Melastomataceae
+Folhas palminérveas ou peninérveas; anteras não falciformes
+49
+
+49
+Flores unissexuadas
+Myrtaceae
+Flores bissexuadas
+50
+
+50
+Estames em número duplo ao das pétalas
+51
+Estames mais numerosos
+54
+
+51
+Anteras poricidas
+Melastomataceae
+Anteras rimosas
+52
+
+52
+Óvulos com placentação pêndula
+Rhizophoraceae
+Óvulos com placentação axial
+53
+
+53
+Cálice com prefloração imbricada
+Hydrangeaceae
+Cálice com prefloração valvar
+Onagraceae
+
+54
+Folhas com pontuações translúcidas
+Myrtaceae
+Folhas sem pontuações translúcidas
+55
+
+55
+Lóculos dispostos no ovário em diferentes níveis; sementes envoltas por arilo rosado
+Lythraceae
+Lóculos dispostos em um mesmo nível no ovário; sementes não ariladas
+56
+
+56
+Lóculos do ovário uni-biovulados
+Rhizophoraceae
+Lóculos do ovário pluriovulados
+57
+
+57
+Ovário tetralocular; fruto seco
+Hydrangeaceae
+Ovário unilocular; fruto carnoso
+Grossulariaceae
+
+58
+Estames em número igual ou inferior ao das pétalas
+59
+Estames em número maior que o das pétalas
+74
+
+59
+Ovário unilocular
+60
+Ovário 2-plurilocular
+63
+
+60
+Flores unissexuadas
+Cucurbitaceae
+Flores bissexuadas
+61
+
+61
+Plantas saprófitas
+Burmanniaceae
+Plantas não saprófitas
+62
+
+62
+Plantas hemiparasitas
+Loranthaceae
+Plantas não hemiparasitas
+Portulacaceae
+
+63
+Lóculos do ovário tri-pluriovulados
+64
+Lóculos do ovário uni-biovulados
+66
+
+64
+Flores tetrâmeras
+Onagraceae
+Flores pentâmeras
+65
+
+65
+Lóculos do ovário 2-4-ovulados
+Symplocaceae
+Lóculos do ovário 5-pluriovulados
+Escalloniaceae
+
+66
+Apenas um dos lóculos do ovário fértil
+Griseliniaceae
+Todos os lóculos do ovário férteis
+67
+
+67
+Óvulos com placentação ereta
+Rhamnaceae
+Óvulos com placentação pêndula ou axial
+68
+
+68
+Gineceu 3-4-carpelar
+Anisophylleaceae
+Gineceu 2-carpelar
+69
+
+69
+Flores tetrâmeras
+Hamamelidaceae
+Flores pentâmeras
+70
+
+70
+Plantas lenhosas
+Araliaceae
+Plantas herbáceas
+71
+
+71
+Folhas compostas ou sectas
+Apiaceae (Umbelliferae)
+Folhas simples, inteiras
+72
+
+72
+Flores sésseis, dispostas em glomérulos ou capítulos
+Apiaceae (Umbelliferae)
+Flores pediceladas, dispostas em umbelas
+73
+
+73
+Brácteas ausentes ou inconspicuas
+Araliaceae
+Brácteas conspícuas dispostas na base da umbela
+Apiaceae (Umbelliferae)
+
+74
+Ovário unilocular
+75
+Ovário bi-plurilocular (carpelos às vezes apenas parcialmente unidos)
+78
+
+75
+Óvulos com placentação ereta ou central-livre
+Portulacaceae
+Óvulos com placentação pêndula ou parietal
+76
+
+76
+Plantas herbáceas
+Loasaceae
+Plantas lenhosas
+77
+
+77
+Óvulos com placentação parietal
+Salicaceae
+Óvulos com placentação pêndula
+Combretaceae
+
+78
+Lóculos 1-2-ovulados
+79
+Lóculos 3-pluriovulados
+81
+
+79
+Plantas sem estípulas
+Symplocaceae (na realidade gamopétalas)
+Plantas com estípulas
+80
+
+80
+Estames livres entre si; hipanto carnoso na frutificação, formando um pseudofruto do tipo pomo
+Rosaceae
+Estames unidos; fruto seco, sem formação de pseudofruto
+Lecythidaceae
+
+81
+Plantas sem estípulas ou com estas apenas vestigiais
+82
+Plantas com estípulas
+85
+
+82
+Filetes unidos formando uma lígula sobre o estilete
+Lecythidaceae
+Filetes livres ou, se unidos, não formando uma lígula sobre o estilete
+83
+
+83
+Folhas com pontuações translúcidas
+Myrtaceae
+Folhas sem pontuações translúcidas
+84
+
+84
+Plantas herbáceas em geral; cálice dialissépalo; lóculos do ovário 5-pluriovulados
+Onagraceae
+Plantas lenhosas; cálice gamossépalo; lóculos do ovário 2-4-ovulados
+Symplocaceae (na realidade gamopétalas)
+
+85
+Flores unissexuais
+Begoniaceae
+Flores bissexuadas
+86
+
+86
+Estames em número duplo ao das pétalas
+Onagraceae
+Estames em número superior ao dobro das pétalas
+87
+
+87
+Estames livres entre si
+Rosaceae
+Estames unidos entre si
+Lecythidaceae

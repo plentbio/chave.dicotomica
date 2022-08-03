@@ -1,0 +1,1811 @@
+1
+Brácteas transformadas em nectário em forma de "jarra"
+Marcgraviaceae
+Brácteas não transformadas em nectário
+2
+
+2
+Flor com mais de um pistilo, às vezes unidos pelos estiletes
+3
+Flor com um único pistilo
+28
+
+3
+Ervas aquáticas
+Cabombaceae
+Plantas terrestres
+4
+
+4
+Plantas com estípulas
+5
+Plantas sem estípulas
+16
+
+5
+Estames em número igual ou duplo ao das pétalas
+6
+Estames numerosos
+9
+
+6
+Folhas palmilobadas
+Platanaceae
+Folhas não palmilobadas
+7
+
+7
+Folhas compostas
+Fabaceae (Leguminosae)
+Folhas simples
+8
+
+8
+Flores períginas; anteras rimosas
+Chrysobalanaceae
+Flores hipóginas; anteras poricidas
+Ochnaceae
+
+9
+Plantas com estípulas terminais
+Magnoliaceae
+Plantas com estípulas laterais ou interpeciolares
+10
+
+10
+Folhas compostas
+11
+Folhas simples
+12
+
+11
+Flores períginas ou hipóginas; cálice com prefloração valvar
+Rosaceae
+Flores hipóginas; cálice com prefloração imbricada
+Ranunculaceae
+
+12
+Cálice com prefloração valvar
+Rosaceae
+Cálice com prefloração imbricada
+13
+
+13
+Plantas herbáceas
+Ranunculaceae
+Plantas lenhosas
+14
+
+14
+Folhas opostas ou verticiladas
+Quiinaceae
+Folhas alternas
+15
+
+15
+Gineceu 2-3-carpelar
+Chrysobalanaceae
+Gineceu 5-carpelar
+Ochnaceae
+
+16
+Estames em número inferior ou igual ao duplo ao das pétalas
+17
+Estames numerosos
+22
+
+17
+Corola hexâmera em dois verticilos de três
+18
+Corola 4-5-mera
+19
+
+18
+Plantas geralmente arbóreas; folhas alternas dísticas; óvulos com placentação ereta
+Annonaceae
+Plantas geralmente com hábito lianescente; folhas alternas espiraladas; óvulos com placentação pêndula
+Menispermaceae
+
+19
+Folhas com pontuações translúcidas, às vezes apenas na margem da folha
+Rutaceae
+Folhas sem pontuações translúcidas
+20
+
+20
+Folhas opostas
+Crassulaceae
+Folhas alternas
+21
+
+21
+Carpelos unidos pelos estiletes
+Simaroubaceae
+Estiletes livres entre si
+Connaraceae
+
+22
+Flor calcarada
+Ranunculaceae
+Flor não calcarada
+23
+
+23
+Folhas compostas
+Rosaceae
+Folhas simples
+24
+
+24
+Pétalas dispostas em dois ou mais verticilos
+25
+Pétalas dispostas em um único verticilo
+27
+
+25
+Folhas alternas dísticas
+Annonaceae
+Folhas alternas espiraladas
+26
+
+26
+Geralmente lianas; folhas geralmente palminérveas; pétalas menores do que as sépalas
+Menispermaceae
+Arbustos ou árvores; folhas peninérveas ou apenas a nervura central saliente; pétalas maiores do que as sépalas
+Winteraceae
+
+27
+Cálice com prefloração valvar
+Rosaceae
+Cálice com prefloração imbricada
+Dilleniaceae
+
+28
+Plantas carnívoras
+29
+Plantas não carnívoras
+30
+
+29
+Folhas enroladas, formando um "jarro", que funciona como armadilha para captura dos insetos
+Sarraceniaceae
+Folhas não formando um "jarro". A captura dos insetos ocorre através de movimentação ativa das folhas ou através de tricomas aderentes
+Droseraceae
+
+30
+Androceu tetradínamo
+Brassicaceae (Cruciferae)
+Androceu não tetradínamo
+31
+
+31
+Ovário unilocular (às vezes com falso septo replo ou unilocular por aborto)
+32
+Ovário bi-plurilocular, ao menos na região mediana
+133
+
+32
+Ovário com um único óvulo (atenção para plantas com fruto do tipo drupa, pois o número de "caroços" pode não corresponder ao número de óvulos)
+33
+Óvulos 2-numerosos
+63
+
+33
+Placentação pêndula, axial, parietal ou marginal
+34
+Placentação ereta ou central-livre
+49
+
+34
+Plantas com estípulas
+35
+Plantas sem estípulas
+40
+
+35
+Flores actinomorfas
+36
+Flores zigomorfas
+38
+
+36
+Plantas com látex
+Euphorbiaceae
+Plantas sem látex
+37
+
+37
+Gineceu unicarpelar
+Fabaceae (Leguminosae)
+Gineceu tricarpelar
+Violaceae
+
+38
+Estames 10-numerosos
+Fabaceae (Leguminosae)
+Estames 4-8
+39
+
+39
+Gineceu tricarpelar
+Violaceae
+Gineceu unicarpelar
+Polygalaceae
+
+40
+Estames em número até duas vezes maior que as pétalas
+41
+Estames numerosos
+48
+
+41
+Flores zigomorfas
+Polygalaceae
+Flores actinomorfas
+42
+
+42
+Corola trímera em dois verticilos
+Menispermaceae
+Corola 4-10-mera
+43
+
+43
+Estames em número inferior ao duplo das sépalas
+44
+Estames em número duplo ao das sépalas
+47
+
+44
+Folhas compostas
+Anacardiaceae
+Folhas simples
+45
+
+45
+Ervas
+Cleomaceae
+Plantas lenhosas
+46
+
+46
+Cálice reduzido, com prefloração aberta
+Opiliaceae
+Cálice não reduzido, com prefloração imbricada
+Stemonuraceae
+
+47
+Flores períginas; folhas simples
+Thymelaeaceae
+Flores hipóginas; folhas geralmente compostas
+Anacardiaceae
+
+48
+Corola trímera em dois verticilos
+Menispermaceae
+Corola 4-5-mera
+Pentaphyllacaceae
+
+49
+Corola zigomorfa
+Fabaceae (Leguminosae)
+Corola actinomorfa
+50
+
+50
+Estames 1-10
+51
+Estames numerosos
+59
+
+51
+Plantas com estípulas
+52
+Plantas sem estípulas
+54
+
+52
+Folhas opostas
+Caryophyllaceae
+Folhas alternas
+53
+
+53
+Gineceu unicarpelar
+Fabaceae (Leguminosae)
+Gineceu 2-3-carpelar
+Chrysobalanaceae
+
+54
+Plantas herbáceas
+Basellaceae (na realidade monoclamídeas)
+Plantas lenhosas ou subarbustivas
+55
+
+55
+Estames em número duplo ao das pétalas
+56
+Estames em número igual ou inferior ao das pétalas
+57
+
+56
+Flores tetrâmeras
+Sapindaceae
+Flores pentâmeras
+Anacardiaceae
+
+57
+Estames 1-2 (não incluindo os estaminódios)
+Anacardiaceae
+Estames 3-numerosos
+58
+
+58
+Folhas compostas; prefloração da corola imbricada
+Anacardiaceae
+Folhas simples; prefloração da corola valvar
+Nyctaginaceae (na realidade monoclamídeas)
+
+59
+Folhas compostas
+Fabaceae (Leguminosae)
+Folhas simples
+60
+
+60
+Folhas opostas
+Calophyllaceae
+Folhas alternas
+61
+
+61
+Gineceu 5-8-carpelar
+Rosaceae
+Gineceu unicarpelar
+62
+
+62
+Estilete basal
+Rhabdodendraceae
+Estilete terminal
+Fabaceae (Leguminosae)
+
+63
+Sépalas dispostas em 2-4 verticilo
+Berberidaceae
+Sépalas dispostas em um único verticilo
+64
+
+64
+Flores zigomorfas ou assimétricas
+65
+Flores actinomorfas
+82
+
+65
+Plantas com estípulas, às vezes transformadas em glândulas
+66
+Plantas sem estípulas
+68
+
+66
+Gineceu unicarpelar
+Fabaceae (Leguminosae)
+Gineceu tricarpelar
+67
+
+67
+Folhas compostas
+Moringaceae
+Folhas simples
+Violaceae
+
+68
+Estames 9-numerosos
+69
+Estames 3-8
+73
+
+69
+Flores hipóginas, tetrâmeras
+70
+Flores períginas, raramente tetrâmeras
+71
+
+70
+Plantas geralmente herbáceas; fruto seco
+Cleomaceae
+Plantas arbustivas ou arbóreas; fruto carnoso
+Capparaceae
+
+71
+Estames 9-11
+Lythraceae
+Estames 12-numerosos
+72
+
+72
+Folhas alternas, com estípulas
+Chrysobalanaceae
+Folhas opostas, geralmente sem estípulas
+Lythraceae
+
+73
+Gineceu unicarpelar
+74
+Gineceu 2-5-carpelar
+75
+
+74
+Corola com prefloração imbricada
+Krameriaceae
+Corola com prefloração valvar
+Icacinaceae
+
+75
+Folhas escamiformes
+Tamaricaceae
+Folhas não escamiformes
+76
+
+76
+Corola tetrâmera
+77
+Corola pentâmera
+79
+
+77
+Sépalas 2
+Papaveraceae
+Sépalas 4
+78
+
+78
+Plantas geralmente herbáceas; fruto seco
+Cleomaceae
+Plantas arbustivas ou arbóreas; fruto carnoso
+Capparaceae
+
+79
+Ovário biovulado
+Chrysobalanaceae
+Ovário pluriovulado
+80
+
+80
+Folhas compostas
+Moringaceae
+Folhas simples
+81
+
+81
+Pétalas unidas duas a duas
+Balsaminaceae
+Pétalas livres entre si
+Violaceae
+
+82
+Gineceu unicarpelar
+83
+Gineceu bi-pluricarpelar
+91
+
+83
+Plantas com estípulas
+84
+Plantas sem estípulas
+86
+
+84
+Corola com prefloração valvar
+Fabaceae (Leguminosae)
+Corola com prefloração imbricada
+85
+
+85
+Folhas compostas
+Fabaceae (Leguminosae)
+Folhas simples
+Rosaceae
+
+86
+Folhas compostas
+87
+Folhas simples
+88
+
+87
+Estames 6
+Berberidaceae
+Estames 10
+Connaraceae
+
+88
+Estames em número igual ao das pétalas
+89
+Estames em número maior que o das pétalas
+90
+
+89
+Lianas ou arbustos com ramos escandentes
+Icacinaceae
+Árvores ou arbustos com ramos não escandentes
+Metteniusaceae
+
+90
+Estames 6
+Brassicaceae (Cruciferae) (na realidade bicarpelar)
+Estames numerosos
+Dilleniaceae
+
+91
+Flores com androginóforo
+92
+Flores sem androginóforo
+93
+
+92
+Estames unidos entre si
+Malvaceae
+Estames livres entre si
+Passifloraceae
+
+93
+Plantas com estípulas
+94
+Plantas sem estípulas
+115
+
+94
+Estames 1-5
+95
+Estames 6-numerosos
+101
+
+95
+Flores períginas
+96
+Flores hipóginas
+97
+
+96
+Gineceu unicarpelar
+Chrysobalanaceae
+Gineceu tricarpelar
+Turneraceae
+
+97
+Óvulos com placentação parietal
+98
+Óvulos com placentação ereta, pêndula ou central-livre
+99
+
+98
+Estilete único; brácteas sem nectários extraflorais
+Violaceae
+Estiletes livres entre si; brácteas geralmente com um par de nectários extraflorais na base
+Turneraceae
+
+99
+Folhas opostas
+Caryophyllaceae
+Folhas alternas
+100
+
+100
+Cálice om prefloração valvar
+Malvaceae
+Cálice com prefloração imbricada
+Ochnaceae
+
+101
+Óvulos 2
+Chrysobalanaceae
+Óvulos 3-numerosos
+102
+
+102
+Corola tetrâmera
+103
+Corola 5-12-mera
+110
+
+103
+Gineceu bicarpelar
+104
+Gineceu 3-pluricarpelar
+107
+
+104
+Flor sem ginóforo
+Salicaceae
+Flor com ginóforo
+105
+
+105
+Óvulos com placentação ereta ou central-livre
+Caryophyllaceae
+Óvulos com placentação parietal
+106
+
+106
+Plantas geralmente herbáceas; fruto seco
+Cleomaceae
+Plantas arbustivas ou arbóreas; fruto carnoso
+Capparaceae
+
+107
+Óvulos com placentação ereta ou central-livre
+Caryophyllaceae
+Óvulos com placentação parietal
+108
+
+108
+Fruto baga
+Salicaceae
+Fruto cápsula
+109
+
+109
+Folhas com um par de nectários extraflorais na junção entre o pecíolo e a lâmina
+Salicaceae
+Folhas sem nectários extraflorais
+Elaeocarpaceae
+
+110
+Estames 10
+111
+Estames numerosos
+112
+
+111
+Folhas alternas
+Caricaceae
+Folhas opostas
+Caryophyllaceae
+
+112
+Cálice com prefloração valvar
+113
+Cálice com prefloração imbricada
+114
+
+113
+Corola com prefloração valvar
+Salicaceae
+Corola com prefloração imbricada
+Malvaceae
+
+114
+Cálice 2-3-mero
+Achariaceae
+Cálice pentâmero
+Bixaceae
+
+115
+Plantas herbáceas
+116
+Plantas lenhosas
+124
+
+116
+Estames 1-6
+117
+Estames 7-numerosos
+120
+
+117
+Gineceu bicarpelar
+118
+Gineceu tricarpelar
+Turneraceae
+
+118
+Estames 2-4
+Brassicaceae (Cruciferae)
+Estames 6
+119
+
+119
+Plantas geralmente herbáceas; fruto seco
+Cleomaceae
+Plantas arbustivas ou arbóreas; fruto carnoso
+Capparaceae
+
+120
+Óvulos com placentação ereta ou central-livre
+121
+Óvulos com placentação parietal
+122
+
+121
+Cálice 4-5-mero; folhas opostas; estames 5-10
+Caryophyllaceae
+Cálice (na realidade são brácteas) 2-mero; folhas alternas e opostas na mesma planta; estames 10-numerosos
+Talinaceae
+
+122
+Ervas aculeadas
+Papaveraceae
+Ervas inermes
+123
+
+123
+Gineceu bicarpelar ou 4-pluricarpelar
+Papaveraceae
+Gineceu tricarpelar
+Cistaceae
+
+124
+Cálice trímero
+Canellaceae
+Cálice 4-8-mero
+125
+
+125
+Corola tetrâmera
+126
+Corola 5-6-mera
+127
+
+126
+Estames em número superior ao das pétalas
+Capparaceae
+Estames em número igual ao das pétalas
+Icacinaceae
+
+127
+Estames mais de 10
+Pentaphyllacaceae
+Estames 5-10
+128
+
+128
+Gineceu 4-8-carpelar
+Caricaceae
+Gineceu 2-3-carpelar
+129
+
+129
+Estames em número superior ao das pétalas
+Olacaceae
+Estames em número igual ao das pétalas
+130
+
+130
+Ovário 3-pluriovulado
+Turneraceae
+Ovário 1-2-ovulado
+131
+
+131
+Corola com prefloração imbricada
+Cardiopteridaceae
+Corola com prefloração valvar
+132
+
+132
+Lianas ou arbustos com ramos escandentes
+Icacinaceae
+Árvores ou arbustos com ramos não escandentes
+Metteniusaceae
+
+133
+Folhas com pontuações translúcidas
+134
+Folhas sem pontuações translúcidas
+137
+
+134
+Estames livres entre si
+Rutaceae
+Estames unidos entre si
+135
+
+135
+Plantas com estípulas
+Malvaceae
+Plantas sem estípulas
+136
+
+136
+Estames em número duplo ao das pétalas; plantas inermes
+Meliaceae
+Estames em número igual ao das pétalas ou mais do que o dobro destas; plantas frequentemente com espinhos
+Rutaceae
+
+137
+Estames unidos entre si, formando um único ou diversos feixes
+138
+Estames livres entre si ou apenas 1
+160
+
+138
+Plantas com látex
+139
+Plantas sem látex
+144
+
+139
+Folhas alternas
+Calophyllaceae
+Folhas opostas
+140
+
+140
+Fruto deiscente
+141
+Fruto indeiscente
+142
+
+141
+Sementes sem arilo
+Calophyllaceae
+Sementes com arilo
+Clusiaceae
+
+142
+Epífitas
+Calophyllaceae
+Arbustos ou árvores
+143
+
+143
+Estilete e estigma inteiros
+Calophyllaceae
+Estilete ramificado ou estigma séssil
+Clusiaceae
+
+144
+Plantas com estípulas
+145
+Plantas sem estípulas
+154
+
+145
+Folhas simples
+146
+Folhas compostas
+150
+
+146
+Corola com prefloração valvar
+Goupiaceae
+Corola com prefloração imbricada
+147
+
+147
+Cálice com prefloração valvar
+Malvaceae
+Cálice com prefloração imbricada
+148
+
+148
+Lóculos do ovário pluriovulados
+Elatinaceae
+Lóculos do ovário biovulados
+149
+
+149
+Flores unissexuadas
+Phyllanthaceae
+Flores bissexuadas
+Geraniaceae
+
+150
+Cálice com prefloração valvar
+Malvaceae
+Cálice muito reduzido ou com prefloração imbricada
+151
+
+151
+Plantas com gavinha
+Sapindaceae
+Plantas sem gavinha
+152
+
+152
+Estames numerosos
+Caryocaraceae
+Estames 5-15
+153
+
+153
+Estilete único
+Geraniaceae
+Estiletes livres entre si
+Oxalidaceae
+
+154
+Folhas simples
+155
+Folhas compostas
+157
+
+155
+Flores actinomorfas
+Bonnetiaceae
+Flores zigomorfas
+156
+
+156
+Flores calcaradas
+Balsaminaceae
+Flores não calcaradas
+Polygalaceae
+
+157
+Estames numerosos
+Caryocaraceae
+Estames 5-10
+158
+
+158
+Estiletes livres entre si
+Oxalidaceae
+Estilete único
+159
+
+159
+Trepadeiras
+Sapindaceae
+Arbustos ou árvores
+Meliaceae
+
+160
+Folhas compostas
+161
+Folhas simples ou compostas unifolioladas
+184
+
+161
+Gineceu 1-4-carpelar
+162
+Gineceu 5-pluricarpelar
+177
+
+162
+Folhas opostas ou verticiladas
+163
+Folhas alternas
+165
+
+163
+Lóculos do ovário pluriovulados
+Cunoniaceae
+Lóculos do ovário 1-5-ovulados
+164
+
+164
+Folhas trifolioladas; estames numerosos
+Caryocaraceae
+Folhas pinadas; estames 5
+Staphyleaceae
+
+165
+Lóculos do ovário com um único óvulo
+166
+Lóculos do ovário com dois a muitos óvulos
+170
+
+166
+Estames 2-7
+167
+Estames 8-12
+169
+
+167
+Carpelos 4
+Simaroubaceae
+Carpelos 2-3
+168
+
+168
+Óvulos com placentação pêndula
+Sabiaceae
+Óvulos com placentação ereta
+Sapindaceae
+
+169
+Prefloração da corola valvar
+Anacardiaceae
+Prefloração da corola imbricada
+Sapindaceae
+
+170
+Estames 2-5
+171
+Estames 6-12
+174
+
+171
+Lianas
+Vitaceae
+Arbustos ou árvores
+172
+
+172
+Estames 2, mais 3 estaminódios
+Sabiaceae
+Estames 3-5
+173
+
+173
+Margem dos folíolos serreada; plantas aromáticas
+Burseraceae
+Margem dos folíolos lisa; plantas não aromáticas
+Picramniaceae
+
+174
+Corola muito menor do que o cálice
+Sapindaceae
+Corola do mesmo tamanho ou maior do que o cálice
+175
+
+175
+Corola com prefloração valvar
+Burseraceae
+Corola com prefloração imbricada
+176
+
+176
+Ovário com dois óvulos por lóculo
+Burseraceae
+Ovário com cerca de oito óvulos por lóculo
+Sapindaceae
+
+177
+Lóculos do ovário com um único óvulo
+178
+Lóculos do ovário com dois a muitos óvulos
+181
+
+178
+Estames 4-7
+Simaroubaceae
+Estames 8-numerosos
+179
+
+179
+Plantas sem estípulas
+Anacardiaceae
+Plantas com estípulas
+180
+
+180
+Estames 8-10
+Zygophyllaceae
+Estames numerosos
+Caryocaraceae
+
+181
+Flores zigomorfas
+Geraniaceae
+Flores actinomorfas
+182
+
+182
+Folhas digitadas
+Caricaceae
+Folhas pinadas ou bipinadas
+183
+
+183
+Folhas opostas
+Quiinaceae
+Folhas alternas
+Meliaceae
+
+184
+Flores zigomorfas
+185
+Flores actinomorfas
+203
+
+185
+Flores com 1 estame
+Vochysiaceae
+Flores com 2-numerosos estames
+186
+
+186
+Estames 2-8
+187
+Estames 10-numerosos
+197
+
+187
+Folhas opostas ou verticiladas
+188
+Folhas alternas
+190
+
+188
+Lóculos do ovário com dois ou mais óvulos
+189
+Lóculos do ovário com um único óvulo
+196
+
+189
+Flores pentâmeras
+Trigoniaceae
+Flores hexâmeras
+Lythraceae
+
+190
+Flores calcaradas
+Tropaeolaceae
+Flores não calcaradas
+191
+
+191
+Plantas sem estípulas
+192
+Plantas com estípulas
+194
+
+192
+Flores hexâmeras
+Lythraceae
+Flores 4-5-meras
+193
+
+193
+Estames 2, mais 3 estaminódios
+Sabiaceae
+Estames 8
+Sapindaceae
+
+194
+Anteras poricidas
+Ochnaceae
+Anteras rimosas
+195
+
+195
+Inflorescência unida ao pecíolo
+Dichapetalaceae
+Inflorescência não unida ao pecíolo
+Chrysobalanaceae
+
+196
+Estames 8; ovário bilocular; cálice sem glândulas
+Polygalaceae
+Estames 5; ovário geralmente trilocular; cálice geralmente com um par de glândulas nectaríferas (elaióforos)
+Malpighiaceae
+
+197
+Gineceu bi-tricarpelar
+198
+Gineceu tetra-pentacarpelar
+202
+
+198
+Lóculos do ovário com um único óvulo; cálice geralmente com um par de glândulas nectaríferas (elaióforos)
+Malpighiaceae
+Lóculos do ovário com dois a muitos óvulos; cálice sem glândulas
+199
+
+199
+Folhas opostas
+200
+Folhas rosuladas ou alternas
+201
+
+200
+Flores pentâmeras
+Trigoniaceae
+Flores hexâmeras
+Lythraceae
+
+201
+Anteras poricidas
+Ochnaceae
+Anteras rimosas
+Saxifragaceae
+
+202
+Anteras rimosas
+Geraniaceae
+Anteras poricidas
+Ochnaceae
+
+203
+Plantas aquáticas
+Nymphaeaceae
+Plantas terrestres
+204
+
+204
+Folhas opostas ou verticiladas
+205
+Folhas alternas
+231
+
+205
+Plantas com látex
+206
+Plantas sem látex
+209
+
+206
+Estigma séssil ou subséssil
+Clusiaceae (Guttiferae)
+Estilete conspicuo
+207
+
+207
+Lóculos do ovário pluriovulados
+Hypericaceae
+Lóculos do ovário 1-3-ovulados
+208
+
+208
+Plantas com estípulas
+Euphorbiaceae
+Plantas sem estípulas
+Calophyllaceae
+
+209
+Estames 1-5
+210
+Estames 6-numerosos
+219
+
+210
+Estames 1-2
+211
+Estames 3-5
+212
+
+211
+Estame 1
+Vochysiaceae
+Estames 2
+Oleaceae
+
+212
+Sépalas com um par de nectários extraflorais (elaióforos) externamente
+Malpighiaceae
+Sépalas sem nectários extraflorais externamente
+213
+
+213
+Plantas herbáceas ou subarbustivas
+214
+Plantas lenhosas, às vezes lianas
+217
+
+214
+Anteras poricidas
+Melastomataceae
+Anteras rimosas
+215
+
+215
+Flores períginas; ovário bilocular
+Lythraceae
+Flores hipóginas; ovário 3-5-locular, raramente bilocular
+216
+
+216
+Lóculos do ovário biovulados
+Linaceae
+Lóculos do ovário pluriovulados
+Elatinaceae
+
+217
+Folhas palmilobadas
+Sapindaceae
+Folhas não palmilobadas
+218
+
+218
+Geralmente lianas; cálice com prefloração imbricada
+Celastraceae
+Árvores ou arbustos; cálice com prefloração valvar
+Rhamnaceae
+
+219
+Folhas palmilobadas
+Sapindaceae
+Folhas não palmilobadas
+220
+
+220
+Sépalas com um par de nectários extraflorais (elaióforos) externamente
+Malpighiaceae
+Sépalas sem nectários extraflorais externamente
+221
+
+221
+Arbustos ou árvores
+222
+Ervas ou subarbustos
+225
+
+222
+Cálice com prefloração imbricada
+Quiinaceae
+Cálice com prefloração valvar
+223
+
+223
+Óvulos com placentação pêndula
+Rhizophoraceae
+Óvulos com placentação axial ou parietal
+224
+
+224
+Folhas geralmente curvinérveas; anteras falciformes
+Melastomataceae
+Folhas uninérveas, palminérveas ou peninérveas; anteras não falciformes
+Lythraceae
+
+225
+Cálice com prefloração valvar
+226
+Cálice com prefloração imbricada
+228
+
+226
+Folhas geralmente curvinérveas; anteras falciformes
+Melastomataceae
+Folhas uninérveas, palminérveas ou peninérveas; anteras não falciformes
+227
+
+227
+Lóculos do ovário pluriovulados
+Lythraceae
+Lóculos do ovário biovulados
+Francoaceae
+
+228
+Lóculos do ovário biovulados
+Geraniaceae
+Lóculos do ovário pluriovulados
+229
+
+229
+Estames numerosos
+Hypericaceae
+Estames em número duplo ao das pétalas
+230
+
+230
+Flores tetrâmeras
+Elatinaceae
+Flores pentâmeras
+Caryophyllaceae
+
+231
+Plantas sem estípulas
+232
+Plantas com estípulas
+267
+
+232
+Plantas com látex
+233
+Plantas sem látex
+234
+
+233
+Folhas palmatisectas
+Caricaceae
+Folhas inteiras
+Calophyllaceae
+
+234
+Lóculos do ovário 1-2-ovulados
+235
+Lóculos do ovário 3-pluriovulados
+255
+
+235
+Estames 2-9
+236
+Estames 10-numerosos
+248
+
+236
+Ovário 5-plurilocular
+237
+236. Ovário 2-4-locular......
+238
+
+237
+Ervas
+Linaceae
+Plantas lenhosas
+Rutaceae
+
+238
+Corola com prefloração valvar
+239
+Corola com prefloração imbricada
+243
+
+239
+Lóculos do ovário com um único óvulo
+240
+Lóculos do ovário biovulados
+241
+
+240
+Flores unissexuadas
+Simaroubaceae
+Flores bissexuadas
+Olacaceae
+
+241
+Estames em número duplo ao das pétalas
+Burseraceae
+Estames em número igual ou inferior ao das pétalas
+242
+
+242
+Óvulos com placentação ereta ou axial
+Celastraceae
+Óvulos com placentação pêndula
+Metteniusaceae
+
+243
+Estames em número superior ao das pétalas
+244
+Estames em número igual ou inferior ao das pétalas
+245
+
+244
+Lóculos do ovário com um único óvulo
+Simaroubaceae
+Lóculos do ovário biovulados
+Burseraceae
+
+245
+Flores unissexuadas
+Picramniaceae
+Flores bissexuadas
+246
+
+246
+Estames em número inferior ao das pétalas
+Sabiaceae
+Estames em número igual ao das pétalas
+247
+
+247
+Óvulos com placentação axial ou ereta
+Celastraceae
+Óvulos com placentação pêndula
+Cardiopteridaceae
+
+248
+Flores solitárias
+249
+Flores dispostas em inflorescências
+251
+
+249
+Pétalas dispostas em dois verticilos de 3
+Annonaceae
+Pétalas dispostas em um único verticilo
+250
+
+250
+Estiletes 1-2; sementes não aladas
+Pentaphyllacaceae
+Estiletes 3-5; sementes aladas
+Theaceae
+
+251
+Estames 10
+252
+Estames 20-numerosos
+254
+
+252
+Corola com prefloração valvar
+Burseraceae
+Corola com prefloração imbricada
+253
+
+253
+Ovário trilocular
+Burseraceae
+Ovário 4-7-locular
+Humiriaceae
+
+254
+Cálice gamossépalo
+Humiriaceae
+Cálice dialissépalo
+Dilleniaceae
+
+255
+Ervas suculentas
+Aizoaceae
+Plantas lenhosas
+256
+
+256
+Ovário 4-7-locular
+257
+Ovário bi-trilocular
+262
+
+257
+Estames 5-10
+258
+Estames numerosos
+259
+
+258
+Folhas palmisectas
+Caricaceae
+Folhas inteiras
+Ericaceae
+
+259
+Lianas
+Actinidiaceae
+Arbustos ou árvores
+260
+
+260
+Flores hexâmeras
+Lythraceae
+Flores pentâmeras
+261
+
+261
+Estiletes 1-2; sementes não aladas
+Pentaphyllacaceae
+Estiletes 3-5; sementes aladas
+Theaceae
+
+262
+Estames 3-12
+263
+Estames numerosos
+264
+
+263
+Estames 3-5
+Celastraceae
+Estames 10-12
+Clethraceae
+
+264
+Estiletes 1-2
+Pentaphyllacaceae
+Estiletes ou estigmas 3-5
+265
+
+265
+Lianas
+Actinidiaceae
+Arbustos ou árvores
+266
+
+266
+Lóculos do ovário uni a pauciovulados; sementes aladas
+Theaceae
+Lóculos do ovário pluriovulados; sementes não aladas
+Bonnetiaceae
+
+267
+Estames 2-8
+268
+Estames 10-numerosos
+288
+
+268
+Gineceu 2-4-carpelar
+269
+Gineceu pentacarpelar
+285
+
+269
+Flores bissexuadas
+270
+Flores unissexuadas
+281
+
+270
+Estames 2
+Sabiaceae
+Estames 4-8
+271
+
+271
+Cálice com prefloração imbricada
+272
+Cálice com prefloração valvar ou aberta
+275
+
+272
+Inflorescência unida ao pecíolo
+Dichapetalaceae
+Inflorescência não unida ao pecíolo
+273
+
+273
+Flores períginas
+Chrysobalanaceae
+Flores hipóginas
+274
+
+274
+Flores com disco nectarífero
+Celastraceae
+Flores sem disco nectarífero
+Ochnaceae
+
+275
+Lianas
+276
+Plantas eretas
+277
+
+276
+Ovário bilocular
+Vitaceae
+Ovário trilocular
+Celastraceae
+
+277
+Flores sem disco nectarífero
+Malvaceae
+Flores com disco nectarífero
+278
+
+278
+Flores períginas
+Rhamnaceae
+Flores hipóginas
+279
+
+279
+Flores com ginóforo
+280
+Flores sem ginóforo
+Celastraceae
+
+280
+Plantas geralmente herbáceas; fruto seco
+Cleomaceae
+Plantas arbustivas ou arbóreas; fruto carnoso
+Capparaceae
+
+281
+Lóculos do ovário com um único óvulo
+282
+Lóculos do ovário com dois a muitos óvulos
+283
+
+282
+Flores períginas, fruto carnoso
+Rhamnaceae
+Flores hipóginas; fruto tricoca
+Euphorbiaceae
+
+283
+Ervas ou lianas
+Vitaceae
+Árvores ou arbustos
+284
+
+284
+Estames 2
+Sabiaceae
+Estames 5
+Celastraceae
+
+285
+Anteras poricidas
+Ochnaceae
+Anteras rimosas
+286
+
+286
+Estiletes livres entre si
+Linaceae
+Estilete único
+287
+
+287
+Cálice com prefloração imbricada
+Ixonanthaceae
+Cálice com prefloração valvar
+Malvaceae
+
+288
+Lóculos do ovário 1-2-ovulados
+289
+Lóculos do ovário pluriovulados
+297
+
+289
+Flores solitárias ou dispostas em fascículos
+290
+Flores dispostas em inflorescências de outros tipos
+292
+
+290
+Plantas com estípulas intrapeciolares mais persistentes do que as folhas, formando ramentas
+Erythroxylaceae
+Plantas com ou sem estípulas, não formando ramentas
+291
+
+291
+Folhas palminérveas
+Geraniaceae
+Folhas uninérveas ou peninérveas
+Linaceae
+
+292
+Flores unissexuadas
+293
+Flores bissexuadas
+294
+
+293
+Lóculos do ovário com um único óvulo
+Euphorbiaceae
+Lóculos do ovário biovulados
+Malvaceae
+
+294
+Anteras poricidas
+Ochnaceae
+Anteras rimosas
+295
+
+295
+Cálice com prefloração valvar
+Malvaceae
+Cálice com prefloração imbricada
+296
+
+296
+Ervas ou subarbustos; flores sem disco nectarífero
+Geraniaceae
+Arbustos ou árvores; flores com disco nectarífero
+Humiriaceae
+
+297
+Corola com 4 pétalas
+Salicaceae
+Corola com 5 ou mais pétalas
+298
+
+298
+Anteras rimosas
+299
+Anteras poricidas
+301
+
+299
+Estames 10
+Quillajaceae
+Estames mais numerosos
+300
+
+300
+Flores períginas, com 6 ou mais pétalas; fruto cápsula
+Lythraceae
+Flores hipóginas, geralmente com 5 pétalas; fruto baga
+Muntingiaceae
+
+301
+Cálice com prefloração valvar
+Elaeocarpaceae
+Cálice com prefloração imbricada
+302
+
+302
+Folhas palminérveas
+Bixaceae
+Folhas peninérveas
+Ochnaceae
